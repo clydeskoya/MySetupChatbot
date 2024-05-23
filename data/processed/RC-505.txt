@@ -1,0 +1,3793 @@
+* This device contains demo data (Phrase Memory 95–99). 
+Once you delete these, they cannot be recovered. Please back them up as described in “Backing up to your computer” (p. 27).
+* The power to this unit will be turned off automatically after a predetermined amount of time has passed since it was last used for 
+playing music, or its buttons or controls were operated (Auto Off function). 
+If you do not want the power to be turned off automatically, change the system setting “Auto Off” (p. 22) to “OFF” as described on “Basic 
+Procedure for Editing the Settings” (p. 5).
+• Any settings that you are in the process of editing will be lost when the power is turned off. If you have any settings that you want to keep, 
+you should save them beforehand.
+• To restore power, turn the power on again (p. 7).
+Main Features
+The RC-505 is a live performance tool that lets you record your vocal or guitar performance and then play it back instantly. 
+You can maximize your live performance potential by layering sounds in real time.
+• Combine five loop tracks for a variety of expressive possibilities.
+• Input FX are provided for recording, letting you use effects such as robot voice or vocoder to make your phrase loops 
+even more diverse.
+• Track FX are provided for the playback tracks, letting you enhance and develop your live performances by applying 
+effects that simulate changing the rotational speed of a turntable or the “stuttering” created by repeated notes on a 
+sampler.
+• Combine previously-recorded phrase loops with realtime recording to make your performances even more exciting. You 
+can also import WAV files from your computer to use as phrase loops.
+• Use the RC-505 in conjunction with other MIDI equipment for an even broader range of live performance possibilities.
+Owner’s Manual
+Before using this unit, carefully read the sections entitled 
+“USING THE UNIT SAFELY” and 
+“IMPORTANT NOTES” (p. 33; p. 34). These 
+sections provide important information concerning the proper operation of the unit. Additionally, in order to feel assured 
+that you have gained a good grasp of every feature of your new unit, read Owner’s Manual in its entirety. This manual should 
+be saved and kept on hand as a convenient reference.
+Copyright © 2013 BOSS CORPORATION
+All rights reserved. No part of this publication may be reproduced in any form without the written permission of BOSS 
+CORPORATION.
+English
+Deutsch
+Français
+Italiano
+Español
+Português
+Nederlands
+2
+Main Features. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  1
+Overview of the RC-505. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  3
+Basic Operation Guide. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  4
+Connections (Rear Panel). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 6
+Adjusting the Input Level.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 6
+Phantom Power Setting. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 6
+Turning On the Power. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 7
+Example of Actual Loop Recording. .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . 8
+Recording on a Single Track. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . 9
+Recording on Multiple Tracks. .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . 9
+Saving a Phrase Memory. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  10
+Saving a Phrase Memory (Write). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . 10
+Exchanging Phrase Memories. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 10
+Deleting a Phrase Memory (Initialize). .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 10
+Copying a Track from Another Phrase Memory (Copy Track). .  .  . . 11
+Loading Frequently-Used Settings (User Set). .  .  .  .  .  .  .  .  .  . . . . . . . . . . 11
+Track 1–5 Settings. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  12
+Playing a Track Backward (Reverse). .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . 12
+Adjusting the Playback Level of the Tracks (Play Level).
+ .  .  . . 12
+Adjusting the Positioning of the Track’s Sound (Pan).
+ .  .  .  . . . 12
+Specifying How the Track Will Play (One-Shot).
+ .  .  .  .  .  .  . . . . . . 12
+Specifying Whether to Apply Track FX (Track FX). .  .  .  .  . . . . . 12
+Playing Only a Single Track (Play Mode). .  .  .  .  .  .  .  .  .  . . . . . . . . . 12
+Specifying How the Track Will Start (Start Mode) . .  .  .  .  . . . . . 13
+Specifying How the Track Will Stop (Stop Mode).
+ .  .  .  .  .  . . . . . 13
+Specifying the Number of Measures in a Track (Measure). . 13
+Aligning the Beginning of Loop Playback (Loop Sync). .  .  . . 13
+Synchronizing the Tempo of the Tracks (Tempo Sync). .  .  . . 14
+Phrase Memory Settings. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  15
+Adjusting the Phrase Memory Volume (Memory Level). .  . . 15
+Specifying a Phrase Memory’s Tempo (Tempo). .  .  .  .  .  . . . . . . 15
+Adjusting the Compressor Depth (Comp Level). .  .  .  .  .  . . . . . 15
+Adjusting the Reverb Depth (Reverb Level). .  .  .  .  .  .  .  . . . . . . . 15
+Setting the Overdub Method (Overdub Mode). .  .  .  .  .  . . . . . . 15
+Changing the Switching Order of Recording g Overdub 
+g Playback (Rec Action). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 15
+Specifying how the Track will Switch (Single Play Change). 15
+Automatically Correcting the Timing of Button Presses 
+(Loop Quantize).
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 16
+Specifying the Length of Loop Sync (Loop Length). .  .  .  . . . . 16
+Specifying the Tracks Started by the [ALL START/STOP] 
+Button (All Start). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 16
+Adjusting the Time Used to Fade In/Out (Fade Time). . . . . . .16
+Specifying the Assignment Target Track (Target Track). .  .  . . 16
+Naming Phrase Memories (Memory Names) . .  .  .  .  .  .  . . . . . . . 16
+Assigning the Function of FX knobs and External Controllers 
+(Assign).
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Enabling Assignments 1–8 (Assign Switch). .  .  .  .  .  .  .  . . . . . . . . 17
+Specifying the Controller (Assign Source). .  .  .  .  .  .  .  .  . . . . . . . . 17
+Specifying the Footswitch Operation (Source Mode). .  .  . . . 17
+Specifying the Assignment Target (Assign Target). .  .  .  .  . . . . 17
+Specifying the Target Range (Target Range). .  .  .  .  .  .  .  . . . . . . . 18
+Connecting to External Pedals. .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . 18
+Rhythm Settings.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  19
+Adjusting the Rhythm Volume (Rhythm Level). .  .  .  .  .  . . . . . . 19
+Selecting the Rhythm Sound (Rhythm Pattern). .  .  .  .  .  . . . . . . 19
+Selecting the Beat (Time Signature) for the Rhythm 
+Sound (Beat). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . 19
+Outputting the Rhythm Only to Headphones 
+(Rhythm Line Out). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 19
+Playing a Count-In When Recording (Recording Count-In). 19
+Playing a Count-In for Playback (Playback Count-In). .  .  .  . . . 19
+Specifying how the Rhythm Sound will Stop 
+(Rhythm Stop). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 19
+Input FX/Track FX settings . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  20
+Selecting the FX Type (FX Type). .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 20
+FX Parameters. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 21
+System Settings (Settings for the Entire RC-505). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  22
+Adjusting the Display’s Brightness (LCD Contrast). .  .  .  .  . . . . 22
+Play Screen Setting (Display) . .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . 22
+Loop Indicator Setting (Indicator).
+ .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . 22
+Auto Off Settings . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 22
+Adjusting the Output Level of the LINE OUTPUT Jacks 
+(Line Output Level).
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 22
+Enabling the Input Audio to be Output from the LINE 
+OUTPUT Jacks (Input Line Out). .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 23
+Specifying What the [OUTPUT LEVEL] Knob Will Adjust 
+(Output Level Select). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . 23
+Restoring the Factory Settings (Factory Reset) . .  .  .  .  .  .  .  .  . . . . . . . . . 23
+USB-Related Settings.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 24
+Setting the USB Mode (USB Mode).
+ .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . 24
+Specifying the Output Destination for USB Audio Input 
+(USB Audio Routing). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . 24
+Adjusting the USB Audio Input Volume (USB In Level). .  .  . . 24
+Adjusting the USB Audio Output Volume (USB Out Level). .24
+MIDI-Related Settings. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . 25
+MIDI Receive Channel. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . 25
+MIDI Omni Mode.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 25
+MIDI Transmit Channel. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 25
+Synchronizing the Tempo (MIDI Sync).
+ .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . 25
+Choosing MIDI or USB for Synchronization 
+(MIDI Sync Source). .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . 25
+MIDI Program Change Out. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . 25
+Connecting to Your Computer via USB. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  26
+Installing the USB driver. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 26
+Setting the USB Mode (USB Mode) . .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . 26
+Connecting the RC-505 to a Computer.
+ .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . 26
+USB Function Settings. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .26
+Using USB to Exchange Files with Your Computer 
+(USB Mass Storage) . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . 26
+Connecting an External MIDI Device. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  28
+About MIDI Connectors. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . 28
+MIDI settings . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Controlling an External MIDI Device from the RC-505. .  .  . . . 28
+Controlling the RC-505 from an External MIDI Device. .  .  . . . 29
+Connecting Two RC-505 Units. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . 29
+Troubleshooting.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  30
+Error Message List. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .31
+Rhythm Pattern List.
+ .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  32
+USING THE UNIT SAFELY . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  33
+IMPORTANT NOTES. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  34
+Index . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  35
+Specifications. .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  36
+Contents
+3
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Phrase Memory 99
+How the RC-505 is organized
+Phrase Memory 1
+Rhythm
+System Settings (settings that apply to the entire RC-505)
+Input FX
+Track FX
+Track 1
+Track 2
+Track 3
+Track 4
+Track 5
+What are tracks 1–5 (p. 12) and phrase memories (p. 15)?
+The RC-505 provides five “tracks” that are used to record and play back the sound of an instrument or a microphone.
+These five tracks combined form what is called a “phrase memory.” Up to 99 phrase memories can be stored.
+“Tracks 1–5,” “Rhythm,” “Input FX,” and “Track FX” settings are saved individually for each phrase memory.
+What is a rhythm? (p. 19)
+In addition to the five tracks, the RC-505 can also play a “Rhythm.” You can record while listening to a rhythm at the tempo you 
+specify.
+What is the Input FX and Track FX? (p. 20)
+You can apply effects to the audio input and to the sound of the tracks, respectively.
+These effects are referred to as “Input FX” and “Track FX.”
+What are system settings? (p. 22)
+Settings that apply to the entire RC-505, such as those for the contrast of the display, the auto off function, the USB, and MIDI 
+functions, are called “system settings.”
+Overview of the RC-505
+“Recording” versus “Overdub”
+In this manual, we refer to the act of recording to an empty track for the first time as “recording.” Any subsequent recordings that are made, 
+which are added on top of the existing recording, we refer to as “overdub.”
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+4
+Recording
+Recording will start when 
+you press the [
+/ ] 
+button.
+Pressing the [
+/ ] button at 
+the point you want to loop will 
+switch to overdubbing.
+Adjusting the Input Level
+You can adjust the input level.
+Page 6
+Input FX, Track FX
+You can apply effects to the audio input and to 
+the sound of the tracks, respectively.
+Three types of effect settings are stored in buttons 
+[A]–[C].
+Turning an Effect On
+Press a button [A]–[C] to make it light.
+Turning an Effect Off 
+Press the lit button [A]–[C] to make it go dark.
+Controlling an Effect
+Turn the [INPUT FX]/[TRACK FX] knob.
+To Change the Effect Type
+1. Press a button [A]–[C] to make it light.
+2. Use the [MEMORY/VALUE] knob to select the effect type you 
+want.
+3. Press the [EXIT] button to return to the play screen.
+Page 20
+Starting All Tracks Simultaneously
+Here’s how to start playing all tracks simultaneously.
+Starting All Tracks Simultaneously
+Press the [ALL START/STOP] button.
+Stopping All Tracks Simultaneously
+During playback or recording, press the [ALL START/STOP] 
+button.
+Cancelling a Recording/Overdub (Undo)
+Here’s how to cancel recording/overdubbing for a track.
+1. Press the [UNDO/REDO] button.
+The [
+/ ] buttons of each track will blink.
+[
+/ ] button
+Explanation
+Green
+Undo is available
+Red
+Redo is available
+Unlit
+Undo/redo unavailable
+* Redo is only available for overdub.
+2. Press the [
+/
+] button of the track that you want to undo/
+redo.
+3. Press the [UNDO/REDO] button once again to return to the 
+normal state.
+Recording/Overdub/Playback/Clear
+To perform recording, overdub, and playback, press the [
+/ ] 
+button as shown in the diagram.
+Adjusts the Volume
+Adjusts the volume of the RC-505.
+ Indicator
+Red
+Recording
+Yellow
+Overdub
+Green
+Playback
+Unlit
+Stopped
+Loop playback will occur if a phrase exists.
+Overdub
+Record additional 
+layers while playing 
+back the loop.
+Playback
+Play back the loop.
+Press for two 
+seconds or 
+longer
+ Indicator
+Lit
+Phrase exists
+Unlit
+No Phrase
+Stop
+Regardless of the timing, pressing the 
+[ ] button will stop the track.
+Clear
+The track will be cleared.
+Page 22
+Basic Operation Guide
+You can use “All Start” to specify the tracks that 
+will start simultaneously.
+Page 16
+Adjusting the Volume of the Tracks 1–5
+The track sliders adjust the volume of tracks 1–5.
+* Pressing the [
+/ ] button will normally switch the RC-505’s state in the order 
+of recording g overdub g playback. However, if desired, you can change 
+this order to recording g playback g overdub (p. 15).
+The loop indicator shows the 
+track status, loop position, and 
+level.
+ Basic Operation Guide
+5
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Basic Procedure for Editing the Settings
+Editing the RC-505’s settings is a simple and consistent procedure. 
+Before you continue, please take a moment to learn the basic editing 
+procedures.
+1. Press the button (Left figure) for the type of item you want to 
+edit.
+Reference
+For details about each item, refer to the page given in the 
+corresponding index tab.
+2. Use the [
+] [
+] buttons to select the desired parameter. 
+Then use the [MEMORY/VALUE] knob to edit the value.
+Master:Memory
+Level        100
+Select a parameter
+Edit the value
+3. Press the [EXIT] button to return to the play screen.
+Saving
+If you select a different phrase memory or turn off 
+the power after recording or editing the settings, 
+the recorded content or edited settings will be lost. 
+If you want to keep the data, you must save it.
+1. Press the [WRITE] button.
+2. Use the [MEMORY/VALUE] knob to select the save-destination.
+3. Press the [WRITE] button to save.
+Page 10
+The Play Screen
+Selecting a Phrase Memory
+Turn the [MEMORY/VALUE] knob.
+Level Meter Indication
+Shows the playback level of tracks 1–5.
+Parameter View
+Shows the parameters of tracks 1–5.
+Input FX
+Tracks 1–5
+Phrase Memory
+System
+Track FX
+Rhythm
+Setting the Tempo
+Here’s how to specify the tempo of the rhythm (Phrase Memory 
+Tempo; p. 15).
+Tap Tempo
+Press the [TAP TEMPO] button several times at intervals of the 
+tempo you want.
+Adjusting the Tempo
+1. Press the [TAP TEMPO] button.
+2. Use the [MEMORY/VALUE] knob to adjust the tempo.
+Returning to the Original Tempo
+Hold down the [TAP TEMPO] button.
+Sounding a Rhythm
+In addition to the five tracks, the RC-505 can also 
+play a “rhythm.” You can record while listening to a 
+rhythm at the tempo you specify.
+Sounding a Rhythm
+Press the RHYTHM [START/STOP] button.
+Changing the Rhythm Volume or Settings
+1. Press the RHYTHM [EDIT] button.
+2. Make changes as described in “Basic Procedure for Editing the 
+Settings” (above).
+Outputting the Rhythm Only to Headphones
+If you want, you can output the rhythm only to headphones as a 
+click tone. Refer to “Outputting the Rhythm Only to Headphones 
+(Rhythm Line Out)” (p. 19).
+Page 19
+Page 22
+[
+] [
+]
+buttons
+[
+] [
+]
+buttons
+[
+] [
+]
+buttons
+01  INIT MEMORY
+01  INIT MEMORY
+REVERS - - - o -
+INIT MEMORY
+Phrase memory number
+Name
+By pressing the [
+] [
+]  buttons you can check the on/off status for Reverse (p. 12), One-Shot 
+(p. 12), and Play Mode (Multi; p. 12), and also check the remaining recordable time (p. 22).
+You can use the system setting “Display” 
+to change the play screen that appears 
+immediately after startup.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+ Basic Operation Guide
+6
+INPUT AUX jack
+Use a stereo mini-plug cable to 
+connect your audio player here.
+To adjust the input level of the 
+AUX jack, adjust the volume of 
+the connected device (audio 
+player, etc.).
+INPUT INST jack
+Connect your guitar, bass, or 
+effects unit to these jacks.
+Use the L jack and R jack when 
+connecting a stereo-output 
+effects unit. Use only the L jack if 
+you’re using a monaural source.
+INPUT MIC jack
+Connect your microphone here.
+* This instrument is equipped 
+with balanced (XLR) type 
+jacks. Wiring diagrams for 
+these jacks are shown below. 
+Make connections after first 
+checking the wiring diagrams 
+of other equipment you 
+intend to connect.
+Connections (Rear Panel)
+DC IN jack
+Connect the included AC adaptor here.
+* Use only the included AC adaptor. Using any 
+other adaptor may cause overheating and 
+malfunction.
+LINE OUTPUT jacks
+Connect these jacks to your amp or monitor 
+speakers.
+If your system is monaural, use only the L 
+jack. Sound that was input in stereo will also 
+be output monaurally.
+PHONES jack
+Connect a set of headphones (sold 
+separately) here.
+Outputting the rhythm only to headphones
+If you want, you can output the rhythm only 
+to headphones as a click tone. 
+For details, refer to “Outputting the Rhythm 
+Only to Headphones (Rhythm Line Out)” (p. 19).
+MIDI connectors
+For connecting MIDI device.
+Page 28
+Security Slot ( )
+http://www.kensington.com/
+USB port
+You can use a commercially available 
+USB cable to connect the RC-505 
+to your computer, and use the 
+computer to read/write RC-505 
+tracks (WAV files). 
+You can also use the RC-505 to play sound from 
+your computer via USB AUDIO, and use USB MIDI to 
+synchronize the tempo with a DAW that’s running on 
+your computer.
+Page 26
+CTL 1, 2/EXP jack
+You can connect 
+expression pedal (EV-5, 
+etc. ; sold separately) or footswitches (FS-5U, 
+FS-6; sold separately) here, and use them to 
+control a variety of parameters.
+Page 18
+[POWER] switch
+This turns the power on/off.
+Page 7
+Phantom Power Setting
+If you’re using a condenser mic that requires 
+phantom power, turn phantom power on as 
+described below.
+1. Press the [SYSTEM] button.
+2. Use the cursor [
+] button to select 
+“PhantomPower.”
+3. Turn the [MEMORY/VALUE] knob to 
+select “ON.”
+Sys:PhantomPower
+              ON
+4. Press the [EXIT] button to return to the 
+play screen.
+* WARNING: Precautions concerning use of 
+phantom power supply
+Always turn the phantom power off when 
+connecting any device other than condenser 
+microphones that require phantom power. 
+You risk causing damage if you mistakenly supply 
+phantom power to dynamic microphones, 
+audio playback devices, or other devices that 
+don’t require such power. Be sure to check the 
+specifications of any microphone you intend to 
+use by referring to the manual that came with it. 
+(This instrument’s phantom power: 48 V DC, 10 
+mA Max)
+Adjusting the Input Level
+Adjust each [INPUT LEVEL] knob so that the PEAK indicator lights only 
+occasionally, when the level of the input is at its highest.
+“Secure the power cord” (p. 7)
+ Basic Operation Guide
+7
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Turning On the Power
+Once everything is properly connected (p. 6), be sure to follow the procedure below to turn on their power. If you turn on equipment in the wrong 
+order, you risk causing malfunction or equipment failure.
+When powering up
+Turn on the power to your amp last.
+When powering down
+Turn off the power to your amp first.
+1.	 Turn the [POWER] switch ON.
+Caution when turning on the power
+* This unit is equipped with a protection circuit. A brief interval (a few seconds) after turning the unit on is required before it will operate normally. 
+* Before turning the unit on/off, always be sure to turn the volume down. Even with the volume turned down, you might hear some sound when 
+switching the unit on/off. However, this is normal and does not indicate a malfunction.
+Caution when turning off the power
+While the RC-505 is in the following states, you must never turn off the power. Doing so may cause all the saved data to be lost.
+• While recording/overdub/playing back
+• While undoing/redoing
+• While switching between phrase memories
+• While the following messages are displayed
+“Now working..”
+, “Now writing...”
+, “Now copying..”
+, “Exchanging..”
+, “Initializing...”
+Caution when connecting
+* To prevent malfunction and equipment failure, always turn down the volume, and turn off all the units before making any connections.
+* Before connecting or disconnecting any connection cables, be sure all the volume controls in your system are set to minimum.
+* When connection cables with resistors are used, the volume level of equipment connected to the inputs (AUX/INST jacks) may be low. If this 
+happens, use connection cables that do not contain resistors.
+Caution when using a microphone
+* Howling could be produced depending on the location of microphones relative to speakers. This can be remedied by:
+• Changing the orientation of the microphone(s). 
+• Relocating microphone(s) at a greater distance from speakers.
+• Lowering volume levels.
+* If the speakers and microphone are close together, the sound played back from the speakers may be picked up by the microphone. If you record 
+or overdub in such a state, the speakers playback picked up by the microphone will also be recorded. You should separate the speakers and 
+microphone so that the playback from the speakers is not picked up by the microphone.
+Secure the power cord
+On the bottom of the RC-505 there is a slot (cord hook) for securing the power cord of the 
+AC adapter. 
+To prevent the inadvertent disruption of power to your unit (should the plug be pulled out 
+accidentally), and to avoid applying undue stress to the DC IN jack, anchor the power cord 
+using the cord hook, as shown in the illustration.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+ Basic Operation Guide
+8
+Example of Actual Loop Recording
+Let’s try loop-recording the following simple 8-beat phrase of vocal percussion (using your voice to imitate the sounds of a drum set) via a 
+microphone.
+Bass drum 
+“Dun!”
+Snare drum 
+“Pah!”
+Hi-hat 
+“Chi!”
+Preparations
+1.	 Connect your microphone, and adjust the input level (“Adjusting the Input Level” (p. 6)).
+2.	 Turn the [MEMORY/VALUE] knob to select an empty phrase memory (the [EDIT] buttons of all tracks are unlit).
+INIT MEMORY
+Record while listening to the rhythm sound
+In addition to its five tracks, the RC-505 can sound a “rhythm.” By recording while you listen to a rhythm at the tempo 
+you’ve specified, you can record at an accurate tempo. For details, refer to “Rhythm Settings” (p. 19).
+Available tracks for recording/overdub
+Recording/overdub can be performed on only one track at a time.
+For example, if all tracks in the phrase memory are empty, and you’re recording track 1, pressing the track 2 [
+/ ] button will switch track 1 to 
+playback, and recording will occur on track 2.
+Track 1
+Track 2
+Track 3
+Recording
+Recording
+Recording
+Playback
+Playback
+Track 1 button
+Track 2 button
+Track 3 button
+ Basic Operation Guide
+9
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+The sound will 
+automatically 
+start over at the 
+end of the second 
+measure.
+Recording on a Single Track
+With this method, you’ll overdub all of the sounds on track 1.
+Recording on Multiple Tracks
+With this method, you’ll record the bass drum sound on track 1, the snare drum sound on track 2, and the hi-hat sound on track 3. By recording these 
+sounds on multiple tracks, you can gain additional performance options, such as stopping just the hi-hat (track 3).
+Press the track 1 [
+/ ] button to start 
+recording.
+Press the track 1 [
+/ ] button to switch 
+to loop playback.
+Press the track 1 [
+/ ] button to 
+start recording.
+Record your vocal into the microphone:  
+“Dun! Dun! Dun! ...”
+Record your vocal into the microphone:  
+“Dun! Dun! Dun! ...”
+1
+1
+2
+2
+3
+5
+7
+4
+4
+6
+5
+6
+Overdub your vocal into 
+the microphone:  
+“Pah! Pah! Pah!”
+Record your vocal into the 
+microphone:  
+“Pah! Pah! Pah!”
+Record your vocal into the 
+microphone:  
+“Chi! Chi! Chi!”
+Overdub your vocal into 
+the microphone:  
+“Chi! Chi! Chi!”
+When two measures have ended, 
+press the track 1 [
+/ ] button to 
+loop the sound at that point.
+3
+When two measures have ended, press the 
+track 2 [
+/ ] button to loop the sound at that 
+point, and change the recording track to track 2.
+Press the track 3 [
+/ ] 
+button to loop the sound 
+at that point, and change 
+the recording track to 
+track 3.
+Press the track 3 [
+/ ] button to loop the 
+sound at that point.
+Loop Playback
+Recording
+Overdub
+Track 1
+Track 2
+Track 3
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+10
+Saving a Phrase Memory
+Saving a Phrase Memory (Write)
+If you select a different phrase memory or turn off the power after 
+recording or editing the settings, the recorded content or edited 
+settings will be lost. If you want to keep the data, you must save it.
+1.	 Press the [WRITE] button.
+The Write screen appears.
+Write to    12
+INIT MEMORY
+Number
+Save-Destination Phrase Memory
+2.	 Turn the [MEMORY/VALUE] knob to select the save-
+destination phrase memory.
+• This procedure is not required if the phrase memory number is 
+acceptable as is.
+• Phrase memory numbers in which data has already been saved 
+are shown in parentheses, and cannot be overwritten.
+Write to   ( 13)
+My Memory
+• If the phrase memory cannot be saved because there is 
+insufficient free memory, the display indicates “Memory Full!”  
+In this case, delete unneeded phrase memories (p. 10) and then 
+try the recording operation again.
+3.	 Press the [WRITE] button; the phrase memory will be 
+saved.
+• If you decide to cancel the save operation, press the [EXIT] 
+button.
+• You can’t overwrite (i.e., save to) a phrase memory that already 
+contains data. If the display indicates “Not Empty!”
+, select an 
+empty phrase memory in which to save your data.
+• You can assign a name to the phrase memory. For details, refer 
+to “Naming Phrase Memories (Memory Names)” (p. 16).
+Exchanging Phrase Memories
+You can exchange phrase memories with one another, rearranging 
+the phrase memories.
+1.	 Select an exchange-source phrase memory.
+2.	 Press the [WRITE] button.
+3.	 Press the [
+] [
+] buttons until “Exchange” appears in 
+the display.
+Exchange    13
+My Memory
+Number
+Exchange-Destination Phrase Memory
+4.	 Turn the [MEMORY/VALUE] knob to select the exchange-
+destination phrase memory.
+5.	 Press the [WRITE] button; the phrase memories will be 
+exchanged.
+If you decide to cancel the operation, press the [EXIT] button.
+Deleting a Phrase Memory 
+(Initialize)
+This operation erases a phrase memory and initializes its settings.
+* This device contains demo data (Phrase Memory 95–99). 
+Once you delete these, they cannot be recovered. Please 
+back them up as described in “Backing up to your computer” 
+(p. 27).
+1.	 Select the phrase memory that you want to delete.
+2.	 Press the [WRITE] button.
+3.	 Press the [
+] [
+] buttons until “Initialize” appears in the 
+display.
+Initialize  13
+My Memory
+Number
+Phrase Memory to be Deleted
+4.	 Press the [WRITE] button; the phrase memory will be 
+deleted.
+If you decide to cancel the operation, press the [EXIT] button.
+NOTE
+* Please be aware that the contents of memory can be irretrievably lost as a result of a malfunction or improper operation of the unit. You 
+should back up important data as described in “Backing up to your computer” (p. 27).
+* All due care is taken during repairs to avoid the loss of data. However, in certain cases, such as when there is damage to the memory, it may 
+not be possible to restore the data.
+* Unfortunately, it may be impossible to restore the contents of data that was stored in the unit’s memory once it has been lost. Roland 
+Corporation assumes no liability concerning such loss of data.
+Saving a Phrase Memory
+11
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Copying a Track from Another Phrase 
+Memory (Copy Track)
+You can take a specific track from a phrase memory and copy it to 
+the current phrase memory.
+This is a convenient method to use when you need a pattern with 
+the same backing, as it allows you to prepare tracks simply and 
+easily without having to start recording from scratch again.
+1.	 To prevent loss of the content of the current work, press 
+the [WRITE] button twice to save the current phrase 
+memory.
+Since you need to confirm the sound of the current source track, 
+you must select the copy-source phrase memory once in Copy 
+Track. Save the phrase memory so the content of the current 
+operation is not lost.
+2.	 In the Play screen, select the phrase memory in which the 
+track you want to copy is recorded.
+3.	 Press the [WRITE] button.
+4.	 Press the [
+] [
+] buttons until “Copy Track” appears in 
+the display.
+Copy Track1 to
+Memory12 Track1
+Copy-Source Track
+Copy-Destination Track
+Copy-Destination Phrase memory
+5.	 Use the [
+] [
+] buttons to move the cursor, and turn the 
+[MEMORY/VALUE] knob to select the copy-source track, 
+copy-destination phrase memory and track.
+Track numbers in which data has already been saved are shown in 
+parentheses, and cannot be overwritten.
+Copy Track1 to
+Memory13(Track2)
+6.	 Press the [WRITE] button; the track will be copied.
+If you decide to cancel the operation, press the [EXIT] button.
+When copying is finished, the play screen returns to the display.
+Loading Frequently-Used Settings 
+(User Set)
+If you save your frequently-used phrase memory settings as the 
+user set, you’ll be able to quickly load those settings when needed, 
+for example during a live performance.
+Write User Set
+Load User Set
+User Set
+Phrase Memory A
+Track
+Rhythm
+FX
+Phrase Memory B
+Track
+Rhythm
+FX
+* The user set contains one set of settings.
+Saving settings as the user set
+1.	 Select the phrase memory whose settings you want to 
+save as the user set.
+2.	 Press the [WRITE] button.
+3.	 Press the [
+] [
+] buttons until “WriteUsrSet” appears in 
+the display.
+WriteUsrSet 14
+My Memory
+Number
+Save-Destination Phrase Memory
+4.	 Press the [WRITE] button to save the settings as the user 
+set.
+If you decide to cancel the operation, press the [EXIT] button.
+Loading the user set
+1.	 Select the phrase memory into which you want to load 
+the user set.
+2.	 Press the [WRITE] button.
+3.	 Press the [
+] [
+] buttons until “Load UsrSet” appears in 
+the display.
+Load UsrSet 15
+My Memory
+Number
+Load-Destination Phrase Memory
+4.	 Press the [WRITE] button; the user set will be loaded.
+If you decide to cancel the operation, press the [EXIT] button.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+12
+Here you can specify the playback method and other settings individually for each track.
+For details of the procedure on setting up, refer to “Basic Procedure for Editing the Settings” (p. 5).
+MEMO
+Use the [
+] [
+] buttons to select parameters. By pressing the [EDIT] button several times, you can also jump to parameters marked by the “ ” 
+symbol.
+Parameter
+Value
+Explanation
+Track1:Reverse
+OFF
+Playing a Track Backward (Reverse)
+Specifies conventional playback (OFF) or reverse playback (ON).
+* When Reverse is set to “ON,” you won’t be able to switch to overdubbing after a recording has been completed.
+Track1:PlayLevel
+100
+Adjusting the Playback Level of the Tracks (Play Level)
+Adjusts the playback level of the tracks.
+“Play Level” is a different parameter than the sliders of tracks [1]–[5]. Use the track 
+[1]–[5] sliders for temporary adjustments of the volume between tracks.
+Track1:Pan
+CENTER
+Adjusting the Positioning of the Track’s Sound (Pan)
+Adjusts the positioning (panning) of the track’s sound.
+L50– 
+CENTER– 
+R50
+With the “CENTER” setting, the sound will be heard from the center.
+“L” settings position the sound toward the left, and “R” settings position the sound toward the right. 
+With a setting of L50, the sound will be heard only from the left.
+Track1:1Shot
+OFF
+Specifying How the Track Will Play (One-Shot)
+Specifies whether the track playback will be one-shot (ON) or not one-shot (OFF; conventional loop playback).
+One-Shot: ON
+One-Shot: OFF
+One-Shot: OFF
+Track 1
+Track 2
+Track 3
+If One-Shot is ON, 
+playback will stop when 
+it reaches the end of the 
+phrase.
+OFF
+Conventional loop playback.
+ON
+The phrase will play only once from the beginning to the end of the track, and then stop automati-
+cally (One-Shot Playback).
+If you press the [
+/ ] button during playback, playback will begin again from the beginning of the 
+track (Retrigger Playback). Overdub cannot be carried out.
+If you do not want to synchronize with the other tracks, set Tempo Sync (p. 14) to OFF.
+Track1:Track FX
+ON
+Specifying Whether to Apply Track FX (Track FX)
+Specifies whether to apply track FX (ON) or not (OFF).
+Track1:Play Mode
+MULTI
+Playing Only a Single Track (Play Mode)
+If a track’s play mode is “MULTI,” it can play back simultaneously with other tracks. However tracks whose play mode 
+is “SINGLE” will play back one at a time. For example you might have three tracks set to “SINGLE” and use them to 
+switch between melody-A, melody-B, and the bridge, with the other tracks set to “MULTI” and used for the vocal 
+performance.
+Track 1
+Track 2
+Track 3
+Track 4
+Track 5
+SINGLE
+SINGLE
+SINGLE
+MULTI
+MULTI
+If Play Mode is SINGLE, the track that’s 
+currently playing will stop when you start 
+playback of another SINGLE track.
+* If Single Play Change (p. 15) is set to “LOOP END,” the track will change at the end of the loop.
+* To ensure that playback always takes place from the beginning of the phrase, you need to set Loop Sync (p. 13) to 
+“OFF.”
+MULTI
+Play back all tracks
+SINGLE
+Play back only a single track
+Track 1–5 Settings
+Track 1–5 Settings
+13
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Parameter
+Value
+Explanation
+Track1:StartMode
+IMMEDIATE
+Specifying How the Track Will Start (Start Mode)
+When playing back track, you can select whether to start playback with a fade-in or have playback start immediately.
+IMMEDIATE
+Playback starts immediately.
+FADE IN
+Playback starts while fading in.
+* You can use “Fade Time” (p. 16) to specify the length of the fade-in.
+Track1:Stop Mode
+IMMEDIATE
+Specifying How the Track Will Stop (Stop Mode)
+Specifies how the track will stop when you press the [ ] button.
+• The [
+/ ] indicator will blink until playback stops.
+• If you press the [ ] button once again before playback stops, playback will stop immediately.
+* You can’t overdub during the time until playback stops.
+IMMEDIATE
+Playback will stop immediately.
+FADE OUT
+Playback will fade out and then stop.
+* You can use “Fade Time” (p. 16) to specify the length of the fade-out.
+LOOP END
+Playback will continue to the end of the loop, and then stop.
+Track1:Measure
+AUTO
+Specifying the Number of Measures in a Track (Measure)
+You can specify the number of measures for each track. When recording rhythm sounds or when recording along 
+with other tracks, it’s convenient to specify the number of measures before you record, so that looping will occur at 
+the specified measure length, even if you don’t operate the button when you’ve finished recording.
+* This parameter is available only if Loop Sync (p. 13) is “ON.”
+One measure
+Four measures
+Eight measures
+Track 1
+Track 2
+Track 3
+AUTO
+Tracks that are set to AUTO will have the same number of measures. The number of measures is 
+determined by the first-recorded track of the tracks that are set to AUTO. For example, if all tracks are 
+set to AUTO, the value set as the number of measures for the second and subsequent tracks will be 
+identical to the number of measures in the first track that was recorded.
+FREE
+The number of measures will be set automatically, corresponding to the length of the recording.
+  –1–
+The number of measures will be set manually.
+By selecting a note value symbol, you can also specify a length that’s shorter than one measure.
+Track1:Loop Sync
+ON
+Aligning the Beginning of Loop Playback (Loop Sync)
+If loop sync is “ON” for two or more tracks, loop playback will occur according to the length (Loop Length; p. 16) of the 
+phrase in the track that was recorded first. Tracks whose loop sync is off “OFF” will loop for the length of their phrase.
+Loop Sync: ON
+Loop Sync: ON
+Loop Sync: ON
+Loop Sync: OFF
+Track 1
+Track 2
+Track 3
+Track 4
+Retriggers at the beginning of the first-recorded phrase.
+For tracks whose Loop Sync is OFF, playback will 
+repeat at the length of the phrase.
+Playback starting location
+If you turn Loop Sync on, the beginning of the tracks will always be aligned. This means that if tracks are already 
+playing back, the playback start location of the other tracks will become “the current location of the phrase being 
+played.” The following illustration is an example of how playback will occur with three tracks that contain the 
+identical melody but have different loop sync settings.
+Loop Sync: ON
+Loop Sync: ON
+Loop Sync: OFF
+Track 1
+Track 2
+Track 3
+For a track with Loop Sync ON, playback starts midway 
+through the phrase (from the current location).
+For a track with Loop Sync OFF, playback 
+always starts at the beginning of the phrase.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+Track 1–5 Settings
+14
+Parameter
+Value
+Explanation
+Track1:TempoSync
+ON
+Synchronizing the Tempo of the Tracks (Tempo Sync)
+Each track saves the tempo at which that track was recorded. This is called the “original tempo” of the track. The 
+phrase memory also has a “phrase memory tempo” that is shared by all tracks 1–5.
+Normally, you should leave Tempo Sync on, so all tracks will play at the same tempo (the phrase memory tempo). 
+If you turn Tempo Sync off for tracks for which you don’t want the tempo to change (such as those with special 
+effects), you’ll be able to obtain playback that is always at the original tempo (track 3 in the illustration below).
+Tempo Sync:	
+ON
+Tempo Sync:	
+ON
+Tempo Sync:	
+OFF
+Playback Tempo: 120
+Playback Tempo: 120
+Playback Tempo: 80
+Track 1
+Track 2
+Track 3
+Tracks for which Tempo Sync is ON will play at the phrase memory tempo.
+Tracks for which Tempo 
+Sync is OFF will play at 
+the original tempo.
+Phrase Memory Tempo:	
+120
+Original Tempo:	140
+Original Tempo:	100
+Original Tempo:	80
+OFF
+The track will play at its own original tempo.
+ON
+The track will play at the phrase memory tempo.
+About original tempo
+Each track saves the tempo at which that track was recorded. This is called the “original tempo” of the track. The phrase memory also has a 
+“phrase memory tempo” (p. 15) that is shared by all tracks 1–5. 
+When recording ends, the original tempo is automatically calculated according to the following conditions.
+* RC-505 does not display the value of the Original Tempo. 
+Condition
+Original tempo value to be saved
+Loop Sync 
+=ON
+Rhythm is playing
+Original tempo will be set from the “phrase memory tempo” (p. 15).
+Other tracks contain phrases for which 
+One-Shot is OFF and Loop Sync is also 
+ON.
+Cases other than the above
+The original tempo is automatically calculated according to the following conditions.
+Phrase Memory Tempo will be set to the same value as the automatically calculated original tempo.
+The track’s number of 
+measures (Measure; p. 13) has 
+been specified
+The original tempo is calculated according to the rhythm’s time signature (Beat; p. 19) and the number of 
+measures (Measure).
+4 measures
+2 measures
+4/4 time signature
+4/4 time signature
+For example, if the time signature (Beat) is “4/4,” the number of measures (Measure) is “4,” and 
+you’ve recorded for six seconds, the calculated tempo will be “160.”
+If the number of measures (Measure) is set to “2,” the calculated tempo will be “80.”
+The track’s number of 
+measures (Measure; p. 13) is 
+not specified (AUTO/FREE)
+The recorded number of measures is assumed to be “1, 2, 4, 8, 16... measures,” and the original tempo 
+will be calculated in the range of “80–160.”
+For example, if “4/4” is specified as the time signature (Beat), and you record for eight seconds, the 
+calculated tempo will be “120” (a tempo in the range of “80–160” will be selected).
+In the case of 1 measure… 
+Tempo: 30
+In the case of 2 measures… 
+Tempo: 60
+In the case of 3 measures… 
+Tempo: 120
+In the case of 4 measures… 
+Tempo: 240
+Loop Sync=OFF
+15
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Here you can make settings that apply to the entire phrase memory.
+For details of the procedure on setting up, refer to “Basic Procedure for Editing the Settings” (p. 5).
+MEMO
+Use the [
+] [
+] buttons to select parameters. By pressing the [MEMORY] button several times, you can also jump to parameters marked by the 
+“ ” symbol.
+Parameter
+Value
+Explanation
+Master:Memory 
+Level        100
+Adjusting the Phrase Memory Volume (Memory Level)
+Adjusts the phrase memory volume. 
+Master:Tempo
+120.0
+Specifying a Phrase Memory’s Tempo (Tempo)
+Each phrase memory has a “phrase memory tempo,” which applies to the entire phrase memory.
+The phrase memory tempo is also the tempo of the rhythm (p. 19).
+40.0–250.0
+Setting the tempo
+Press the [
+] [
+] buttons to move the cursor to the digit you want to change, then turn the 
+[MEMORY/VALUE] knob to adjust the phrase memory tempo.
+MEMO
+• Normally, the [
+] [
+] buttons are used to select parameters, but in this screen they are used to 
+move the cursor. When the cursor is located at the far right, pressing the [
+] button once again 
+will take you to the next parameter.
+• You can also set the phrase memory tempo by using the [TAP TEMPO] button (p. 5).
+Master:Comp
+0
+Adjusting the Compressor Depth (Comp Level)
+Adjusts the depth of the Compressor. 
+Master:Reverb
+0
+Adjusting the Reverb Depth (Reverb Level)
+Adjusts the depth of the reverb. 
+Rec:Overdub Mode 
+OVERDUB
+Setting the Overdub Method (Overdub Mode)
+You can set the overdub method.
+OVERDUB
+The new performance is layered onto the prerecorded tracks. If overdub is repeated, the next 
+performance is layered on top of the previous material, allowing you to create an ensemble in a 
+single track.
+REPLACE
+Tracks with existing recordings are overwritten as new tracks are recorded over them. Overwriting 
+takes places while the previously recorded tracks are played back, allowing you to achieve a kind of 
+delay effect similar to that obtained from an effects processor.
+Rec:Rec Action
+     REC→OVERDUB
+Changing the Switching Order of Recording g Overdub 
+g Playback (Rec Action)
+When you press the [
+/ ] button, the RC-505 will switch its operation in the order of Recording g Overdub g 
+Playback (p. 4). However, you can change this so that the order is Recording g Playback g Overdub.
+REC g 
+OVERDUB
+Operation will switch in the order of Recording g Overdub g Playback.
+REC g PLAY
+Operation will switch in the order of Recording g Playback g Overdub.
+Play:Single Play 
+Change IMMEDIATE
+Specifying how the Track will Switch 
+(Single Play Change)
+You can specify how the tracks will be switched when play mode is SINGLE (p. 12).
+IMMEDIATE
+The change will occur immediately.
+LOOP END
+The change will occur after playback has reached the end of the loop.
+Phrase Memory Settings
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+Phrase Memory Settings
+16
+Parameter
+Value
+Explanation
+Play:Quantize 
+REC END
+Automatically Correcting the Timing of Button Presses 
+(Loop Quantize)
+With tracks for which Loop Sync is “ON,” under any of the conditions listed below, your timing will be corrected 
+(Loop Quantize) based on the tempo and time signature of the rhythm, even if the timing at which you press a 
+button is slightly inaccurate.
+• If the rhythm is on
+• If there is an already-recorded track whose Loop Sync is 
+turned on
+• If the MIDI Sync is on
+REC END
+Quantize to the measure start location only for recording.
+MEASURE
+Quantize to the measure start location for recording, for overdubbing, and for playback.
+BEAT
+Quantize to the measure start location for recording. 
+Quantize to the beat location for overdubbing and for playback.
+Play:Loop Length 
+AUTO
+Specifying the Length of Loop Sync (Loop Length)
+Specifies the length (number of measures) that will be looped by Loop Sync (p. 13).
+AUTO
+The length of the first-recorded phrase will be the loop length.
+1–
+Manually specifies the number of measures that will be looped by Loop Sync (p. 13).
+Play:All Start 
+       o o o o o
+Specifying the Tracks Started by the [ALL START/STOP] 
+Button (All Start)
+Specify whether each track will start playing (o) when you press the [ALL START/STOP] button, or will not start 
+playing (–).
+* If a track’s play mode is “MULTI,” it can play back simultaneously with other tracks. However tracks whose play 
+mode is “SINGLE,” only the track whose track number is the smallest will be played.
+MEMO
+Normally, the [
+] [
+] buttons are used to select parameters, but in this screen they are used to move the cursor. 
+When the cursor is located at the far right, pressing the [
+] button once again will take you to the next parameter.
+Play:Fade Time 
+1MEAS
+Adjusting the Time Used to Fade In/Out (Fade Time)
+Specifies the fade-in/out time used when a track’s start mode (p. 13) is set to “FADE IN” or stop mode (p. 13) is set to 
+“FADE OUT.”
+1–64 (MEAS)
+This is the fade-in/out time. This is specified in units of measures.
+Play:TargetTrack
+TRACK1
+Specifying the Assignment Target Track (Target Track)
+This specifies the track (TRACK1–TRACK5) that will be the assignment target when you set Assign Target (p. 17) to “TGT 
+TR...”
+MEMO
+In the Play screen, you can press the [EXIT] button to check the current target track. You can switch the target 
+track by holding down the [EXIT] button and pressing the [EDIT] button of the desired track 1–5.
+Assign1 Switch
+ON
+Reference
+For details on the “Assign...” parameters, refer to “Assigning the Function of FX knobs and External Controllers 
+(Assign)” (p. 17).
+Memory:Name
+INIT MEMORY
+Naming Phrase Memories (Memory Names)
+You can give names to phrase memories (memory names) using up to 12 characters.
+To access the memory name screen, press the [MEMORY] button and then press the [
+] button.
+MEMO
+Normally, the [
+] [
+] buttons are used to select parameters, but in this screen they are used to move the cursor. 
+When the cursor is located at the far right, pressing the [
+] button once again will take you to the next parameter.
+Use the [
+] [
+] buttons to move the cursor to the character that you want to edit, and turn the [MEMORY/VALUE] 
+knob to edit the character. You can also use the following buttons.
+Button
+Function
+CAPS (UNDO/REDO)
+Alternately switches the letter at the cursor position between uppercase and lowercase.
+INS (TAP) 
+Inserts a blank space at the cursor position.
+DEL (RHYTHM START/STOP) Deletes the character at the cursor position and shifts all characters after it to the left.
+Start
+Stop
+Recorded phrase
+Phrase Memory Settings
+17
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Assigning the Function of FX knobs and External Controllers (Assign)
+For each phrase memory, you can assign the function of the RC-505’s FX knobs and any connected external pedals 
+(expression pedal, footswitches; p. 18). You can also make assignments for control change messages received from an external 
+MIDI device (e.g., FC-300).
+For each phrase memory, you can create eight different assignments (assignment numbers 1–8), which specify the 
+parameter controlled by each controller.
+Parameter
+Value
+Explanation
+Assign1 Switch
+ON
+Enabling Assignments 1–8 (Assign Switch)
+Here you can specify whether assignments will be used (ON/OFF).
+Assign1 Source
+EXP PEDAL
+Specifying the Controller (Assign Source)
+Here you can specify the controller (source) that will control the target.
+EXP PEDAL
+An Expression pedal connected to the CTL 1, 2/EXP jack (p. 18)
+CTL1–2 PEDAL
+A footswitch 1–2 connected to the CTL 1, 2/EXP jack (p. 18)
+INPUT FX KNOB
+[INPUT FX] knob
+TRACK FX KNOB
+[TRACK FX] knob
+TR1–5 REC/DUB
+The beginning of recording/overdub triggered by the track 1–5 [
+/ ] button
+TR1–5 PLAY/STOP
+The beginning of playback/stop triggered by the track 1–5 [
+/ ] button
+SYNC START/STOP
+ALL START/STOP messages from an external MIDI device (p. 28)
+CC#1–#31, CC#64–#95 Control change messages (1–31, 64–95) from an external MIDI device
+Assign1 Src Mode
+MOMENT
+Specifying the Footswitch Operation (Source Mode)
+If a momentary-type footswitch (such as the separately sold FS-5U) is connected as the source, you can specify how 
+footswitch operations will affect the value.
+MOMENT
+The setting will normally be off (minimum value); it will be on (maximum value) only while 
+you continue holding down the footswitch.
+TOGGLE
+The setting will alternate between off (minimum value) and on (maximum value) each time 
+you press the footswitch.
+Assign1 Target
+INPUT LEVEL
+Specifying the Assignment Target (Assign Target)
+Here you can choose the Assignment Target. In addition to the following assignment targets, you can also specify a 
+track, rhythm, or a phrase memory parameter as the assignment target. For details on the parameters, refer to the 
+explanation of each parameter in this manual.
+* Some parameters cannot be controlled during performance.
+TGT TR REC/PLAY
+The operations listed at left will be performed for the track specified by Target Track (p. 16).
+TGT TR STOP
+TGT TR CLEAR
+TGT TR UNDO/REDO
+TGT TR PLAY LEV
+ALL START/STOP
+Allows you to simultaneously play/stop all tracks.
+UNDO/REDO
+Allows you to undo/redo the last recording or overdub of a track.
+TEMPO(TAP)
+By pressing the pedal several times in succession, the phrase memory tempo can be set so 
+it matches the timing you’ve used when pressing the pedal. 
+INPUT FX ON/OFF
+Switches the INPUT FX on/off.
+TRACK FX ON/OFF
+Switches the TRACK FX on/off.
+INPUT FX CONTROL
+These control the parameters indicated by the “
+” symbol in “FX Parameters” (p. 21).
+TRACK FX CONTROL
+INPUT FX TYP INC/DEC Switches the type of the selected INPUT FX.
+TRACK FX TYP INC/DEC Switches the type of the selected TRACK FX.
+INPUT FX INC/DEC
+Switches the INPUT FX button (A–C).
+TRACK FX INC/DEC
+Switches the TRACK FX button (A–C).
+MEMORY INC/DEC
+Switches the phrase memory.
+INPUT LEVEL
+Adjusts the input level from the INPUT (MIC, INST, AUX, USB) jacks.
+CC#1–#31, CC#64–#95 Transmits the control change message specified here from the MIDI OUT connector.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+Phrase Memory Settings
+18
+Parameter
+Value
+Explanation
+Assign1TargetMin
+0
+Assign1TargetMax
+100
+Specifying the Target Range (Target Range)
+Specifies the range in which the parameter can be controlled. The value will depend on the parameter that’s 
+assigned as the Target (Assign Target).
+Default assignments of functions controlled
+The default assignments are as follows. If you simply connect pedals without making any settings, you can use them to control the following 
+parameters and functions.
+Assign
+Switch
+Assign Source
+Assign Target
+Explanation
+Assign1
+ON
+EXP PEDAL
+INPUT LEVEL
+Adjusts the input level from the INPUT (MIC, INST, AUX) jacks.
+Assign2
+ON
+CTL1 PEDAL
+UNDO/REDO
+Allows you to undo/redo the last recording or overdub of a track.
+Assign3
+ON
+CTL2 PEDAL
+RHYTHM LEVEL
+Switches the volume of the rhythm (0 or 100).
+Assign4
+OFF
+Assign5
+Assign6
+Assign7
+Assign8
+POLARITY switch
+When Connecting EV-5
+When Connecting FS-5Us
+When Connecting FS-6
+Connecting to External Pedals
+Connect your expression pedal (EV-5, etc. ; sold separately) or footswitches (FS-5U, FS-6; sold separately) as shown in the illustration.
+The function of the external pedal (expression pedal or footswitch) can be assigned independently for each phrase memory. For details, refer to 
+“Assigning the Function of FX knobs and External Controllers (Assign)” (p. 17).
+CTL 2 
+PEDAL
+EXP PEDAL
+CTL 2 
+PEDAL
+CTL 1 
+PEDAL
+CTL 1 
+PEDAL
+Red
+White
+Cable:  
+Stereo 1/4” phone 
+type fg
+1/4” phone type x 2
+MODE/POLARITY switch
+Cable:  
+Stereo 1/4” phone 
+type fg
+Stereo 1/4” phone type
+* Use only the specified expression pedal (Roland 
+EV-5, etc. ; sold separately). By connecting 
+any other expression pedals, you risk causing 
+malfunction and/or damage to the unit.
+* If you use a mono cable to connect a single FS-5U, it will be CTL 1.
+19
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Rhythm Settings
+Here’s how to make rhythm settings.
+For details of the procedure on setting up, refer to “Basic Procedure for Editing the Settings” (p. 5).
+MEMO
+Use the [
+] [
+] buttons to select parameters. By pressing the [RHYTHM] (EDIT) button several times, you can also jump to parameters marked 
+by the “ ” symbol.
+Parameter
+Value
+Explanation
+Rhythm:Level
+100
+Adjusting the Rhythm Volume (Rhythm Level)
+Adjusts the volume of the rhythm sound. 
+Rhythm:Pattern
+Simple Beat 1
+Selecting the Rhythm Sound (Rhythm Pattern)
+Selects the rhythm pattern from a choice of rock drums, Latin percussion, and other patterns.
+Reference
+Refer to “Rhythm Pattern List” (p. 32).
+Rhythm:Beat
+4/4
+Selecting the Beat (Time Signature) for the Rhythm 
+Sound (Beat)
+Selects the rhythm sound beat.
+* You cannot change the beat after the track is recorded. Be sure to set this before recording.
+2/4, 3/4, 4/4, 5/4, 6/4, 
+7/4, 5/8, 6/8, 7/8, 8/8, 
+9/8, 10/8, 11/8, 12/8, 
+13/8, 14/8, 15/8
+Time signature of the rhythm sound
+Rhythm:Line Out
+ON
+Outputting the Rhythm Only to Headphones 
+(Rhythm Line Out)
+This lets you output the rhythm only to headphones. If you want to use the rhythm sound as a click, you 
+can turn this “OFF” so that it will not be output from the LINE OUTPUT jacks.
+* If you want the [OUTPUT LEVEL] knob to adjust only the headphone volume without changing the 
+volume of the LINE OUTPUT jacks, set the system setting “OutLevelSel” (p. 23) to “PHONES.”
+ON
+The rhythm sound will be output from the LINE OUTPUT jacks and the PHONES jack.
+OFF
+The rhythm sound will be output only from the PHONES jack.
+Rhythm:Rec Count
+OFF
+Playing a Count-In When Recording 
+(Recording Count-In)
+You can have recording start after a count-in sound is played.
+* A count-in won’t be sounded when a track or rhythm is being played back.
+OFF
+No count-in is played.
+1MEAS
+Recording starts after a one-measure count-in is played.
+Rhythm:PlayCount
+OFF
+Playing a Count-In for Playback (Playback Count-In)
+You can have playback start after a count-in sound is played.
+OFF
+No count-in is played.
+1MEAS
+Playback starts after a one-measure count-in is played.
+Rhythm:Stop
+LOOPER STOP
+Specifying how the Rhythm Sound will Stop 
+(Rhythm Stop)
+You can specify how the rhythm sound will stop.
+OFF
+The rhythm sound will be heard independently of the looper function. The rhythm will not 
+stop sounding until you press the RHYTHM [START/STOP] button.
+LOOPER STOP
+When you press the [ ] button to stop the looper function, the rhythm sound will also stop.
+REC END
+The rhythm sound will stop when the first recording ends. When you press the [
+/ ] 
+button to loop (i.e., when you begin overdubbing or playback), the rhythm sound will stop.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+20
+Input FX/Track FX settings
+You can apply effects to the audio input and to the sound of the tracks, respectively. These effects are referred to as “Input FX” 
+and “Track FX.”
+For details of the procedure on setting up, refer to “Basic Procedure for Editing the Settings” (p. 5).
+* The FX parameter that appears first when you press the [
+] button will depend on the FX type that’s selected.
+* Parameters indicated by the “
+” symbol can be controlled by the [INPUT FX]/[TRACK FX] knobs.
+* When you press the track FX [A] – [C] button, the [EDIT] button of the target tracks to which FX is applied, will blink.  
+You can also use the [EDIT] buttons to select the tracks to which track FX is applied.
+Parameter
+Value
+Explanation
+IFxA:Type
+FILTER
+TFxA:Type
+BEAT REPEAT
+Selecting the FX Type (FX Type)
+You can select the Input FX/Track FX type.
+Types available for both Input FX and Track FX
+FILTER
+A filter modifies the brightness or thickness of the sound by cutting a specific frequency range.
+PHASER
+Gives the sound a swishing quality by adding a phase-shifted sound.
+FLANGER
+Produces a metallic resonance reminiscent of a jet airplane taking off and landing.
+SYNTH
+Generates a synthesizer sound.
+LO-FI
+This effect intentionally degrades the sound to create a distinctive character.
+GUITAR TO BASS
+Transforms a guitar sound into a bass sound.
+TRANSPOSE
+Transposes the sound when you turn the FX on.
+ROBOT
+Cyber-robot voice.
+VOCAL DIST
+Distortion for vocals.
+VOCODER
+Vocoder sound that uses the audio input to modulate the sound of the track you specify.
+DYNAMICS
+Makes the volume more consistent, and produces a more evenly balanced low-frequency 
+range.
+EQ
+Adjusts the tone as a equalizer.
+ISOLATOR
+Divides the audio input into three ranges (LO, MID, HI) and cuts the specified region. You can 
+cut in synchronization with the tempo.
+OCTAVE
+Adds a note one (or two) octave lower, creating a richer sound.
+PAN
+Moves the stereo position (pan).
+SLICER
+Repeatedly cuts the sound, transforming a conventional sound to create the impression of a 
+rhythmic backing.
+DELAY
+Adds a delayed sound to the direct sound, giving the sound greater depth or creating special 
+effects.
+TAPE ECHO
+A virtual tape echo that produces a realistic tape delay sound.
+GRANULAR DELAY
+Repeats a short portion of the input sound, giving it a buzzy character or producing the effect 
+of playing a roll.
+CHORUS
+In this effect, a slightly detuned sound is added to the original sound to add depth and 
+breadth.
+REVERB
+Adds reverberation to the sound.
+Types available only for Track FX
+BEAT REPEAT
+Plays the track repeatedly in time with the beat.
+Turning the [TRACK FX] knob will change the length of the repeat.
+BEAT SHIFT
+The track will play shifted by the length of the beat.
+Turning the [TRACK FX] knob will change the number of beats by which playback is shifted.
+BEAT SCATTER
+The track will be scrubbed in time with the beat.
+Turning the [TRACK FX] knob will change the length that is scrubbed.
+VINYL FLICK
+The track will sound as though you are touching the turntable.
+Turning the [TRACK FX] knob slowly will change the playback speed; turning the knob quickly 
+will produce a spin-like effect.
+* Effects that use pitch detection (GUITAR TO BASS, TRANSPOSE, ROBOT) will not work correctly with chords. Also, these effects will not work 
+correctly if applied as a track FX to multiple tracks, since multiple sounds will be mixed.
+Input FX/Track FX settings
+21
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+FX Parameters
+FX Type
+Parameter
+Explanation
+FILTER
+Type
+Selects the type of filter.
+LPF
+This reduces the volume of all frequen-
+cies above the cutoff frequency.
+BPF
+This leaves only the frequencies in the 
+region of the cutoff frequency, and cuts 
+the rest.
+HPF
+This cuts the frequencies in the region 
+below the cutoff frequency.
+Rate
+Adjusts the rate of modulation.
+Depth
+Adjusts the depth of modulation.
+Resonance
+Adjusts the intensity of the effect.
+Cutoff
+Adjusts the cutoff frequency of the filter.
+PHASER
+FLANGER
+Rate
+Adjusts the speed of the effect.
+Depth
+Adjusts the richness of the effect.
+Resonance
+Adjusts the intensity of the effect.
+E. Level
+Adjusts the volume level of the effect.
+SYNTH
+Frequency
+Adjusts the frequency of the filter. Higher 
+settings make the sound brighter.
+Resonance
+Adjusts the intensity of the effect.
+Decay
+Adjusts the time over which the filter frequency 
+will change. Higher settings produce a longer 
+movement time.
+Balance
+Adjusts the volume balance between the direct 
+sound and the synth sound.
+LO-FI
+BitDepth
+Specifies the bit depth.
+SampleRate
+Specifies the sampling rate.
+Balance
+Adjusts the volume balance between the direct 
+sound and the effect sound.
+GUITAR TO 
+BASS
+Balance
+Adjusts the volume balance between the direct 
+sound and the effect sound.
+TRANSPOSE
+Trans
+Specify the amount of transposition in 
+semitone units that will occur when the FX is 
+on.
+With a setting of +12, the pitch will be one 
+octave higher when the FX is on.
+ROBOT
+Note
+Specifies the pitch (fixed) for the robot voice.
+Gender
+Negative (–) settings give the voice a more 
+masculine character, while positive (+) settings 
+make the voice more feminine.
+VOCAL DIST
+Dist
+Adjusts the degree of distortion.
+Tone
+Adjusts the tonal character.
+Level
+Adjusts the volume level of the effect.
+VOCODER
+Carrier
+Specifies the track (TRACK 1–5) that will be 
+used as the basis (carrier) of the vocoder sound.
+* If the specified track is empty, you won’t hear 
+the vocoder.
+ModSens
+Specifies the sensitivity by which the audio 
+input will control the modulation.
+Attack
+Specifies the attack of the sound.
+Balance
+Adjusts the volume balance between the direct 
+sound and the vocoder sound.
+DYNAMICS
+Type
+Selects the type of the DYNAMICS effect.
+Dynamics
+Adjusts the range between loud and soft 
+volumes. Higher settings will reduce the 
+difference in volume.
+FX Type
+Parameter
+Explanation
+EQ
+Low
+Adjusts the low frequency range tone.
+Low-Mid
+Adjusts the low-middle frequency range tone.
+High-Mid
+Adjusts the high-middle frequency range tone.
+High
+Adjusts the high frequency range tone.
+Level
+Adjusts the overall volume level of the 
+equalizer.
+ISOLATOR
+Band
+Select the range (LOW, MID, HIGH) that will be 
+cut.
+Rate
+Adjusts the rate of modulation. This lets you cut 
+the low- or high-frequency range at intervals of 
+the specified note value in synchronization with 
+the tempo.
+Depth
+Adjusts the depth of modulation.
+Band Level
+Specifies the amount of cut.
+OCTAVE
+Mode
+Selects the octave that will be sounded (-1 
+octave, -2 octave, or -1 and -2 octaves).
+Oct. Level
+Adjusts the volume level of the octave sound.
+PAN
+Type
+Adjusts the curve for pan position changes 
+(AUTO 1, AUTO 2). “AUTO 2” produce steeper 
+change.
+If this is set to “MANUAL,” you can use the 
+knob to control pan.
+Rate
+Type=AUTO
+Adjusts the rate of change in the pan position 
+when Type = AUTO.
+Depth
+Type=AUTO
+Specifies the depth by which pan will change 
+when Type = AUTO.
+Position
+Type=MANUAL
+Specifies the pan when Type = MANUAL.
+SLICER
+Pattern
+Selects the slice pattern used to cut the sound.
+Rate
+Specifies the rate at which the slice pattern will 
+repeat.
+Depth
+Specifies the depth to which the effect is 
+applied.
+DELAY
+Time
+Specifies the delay time.
+Feedback
+Specifies the number of delay repeats.
+E. Level
+Adjusts the volume level of the delay.
+TAPE ECHO
+RepeatRate
+Adjusts the tape speed.
+Intensity
+Adjusts the amount of delay repeats.
+EchoLevel
+Adjusts the volume level of the effect.
+GRANULAR 
+DELAY
+Time
+Specifies the spacing of the repeats.
+Feedback
+Specifies the length that will be repeated.
+E. Level
+Adjusts the volume level of the effect.
+CHORUS
+Rate
+Adjusts the rate of the chorus effect.
+Depth
+Adjusts the depth of the chorus effect.
+E. Level
+Adjusts the volume level of the effect.
+REVERB
+Time
+Adjusts the length (time) of reverberation.
+E. Level
+Adjusts the volume level of the effect.
+BEAT REPEAT
+Type
+Specifies the direction in which repeat playback 
+will occur.
+Length
+Specifies the repeat length.
+BEAT SHIFT
+Type
+Specifies the direction in which the playback 
+position will be shifted.
+Shift
+Specifies the amount by which the playback 
+position will be shifted.
+BEAT SCATTER
+Type
+Specifies the type of scrub playback.
+Length
+Specifies the length of scrub playback.
+VINYL FLICK
+Flick
+Applies an effect as though you were 
+manipulating the rotation of a record.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+22
+System Settings (Settings for the Entire RC-505)
+Settings that are shared by the entire RC-505, such as those for the contrast of display and the auto off function are called “system settings.”
+For details of the procedure on setting up, refer to “Basic Procedure for Editing the Settings” (p. 5).
+MEMO
+Use the [
+] [
+] buttons to select parameters. By pressing the [SYSTEM] button several times, you can also jump to parameters marked by the 
+“ ” symbol.
+Parameter
+Value
+Explanation
+Sys:LCD Contrast
+8
+Adjusting the Display’s Brightness (LCD Contrast)
+Adjusts the contrast of the display in a range from 1 (lightest) to 16 (darkest).
+Sys:PhantomPower 
+OFF
+Reference
+For details on the Phantom Power, refer to “Phantom Power Setting” (p. 6).
+Sys:Display
+MEMORY NUMBER
+Play Screen Setting (Display)
+Specifies the play screen that will be immediately after start-up.
+MEMORY 
+NUMBER
+The memory number will be shown in large characters (default 
+setting).
+INIT MEMORY
+LEVEL
+The playback levels of tracks 1–5 will be shown.
+01  INIT MEMORY
+REVERSE
+The reverse (p. 12) on/off status of tracks 1–5 will be shown.
+01  INIT MEMORY
+REVERS - - - - -
+1SHOT
+The one-shot (p. 12) on/off status of tracks 1–5 will be shown.
+01  INIT MEMORY
+1SHOT  - - - - -
+MULTI
+The play mode (multi; p. 12) on/off status of tracks 1–5 will be shown.
+01  INIT MEMORY
+MULTI  o o o o o
+REMAIN
+The remaining recordable time will be shown.
+01  INIT MEMORY
+REMAIN  02:45:00
+Sys:Indicator
+STATUS
+Loop Indicator Setting (Indicator)
+Specifies how the loop indicators will be shown.
+The loop indicators can show the track status, loop position, and playback level.
+Value
+Explanation
+Stopped
+(No Phrase)
+Stopped
+(Phrase Exists)
+Recording
+Overdub
+Playback
+STATUS
+Status Indication 
+(default)
+Unlit
+Lit
+Blink (tempo)
+Loop Position 
+(one-measure)
+LOOP 
+POSITION
+Loop Position
+Unlit
+Loop Position
+LEVEL
+Playback Level
+Playback Level
+Sys:Auto Off
+ON
+Auto Off Settings
+The RC-505 can turn off its power automatically. The power will turn off automatically when 10 hours have passed 
+since you last played or operated the unit. The display will show a message approximately 15 minutes before the 
+power turns off.
+With the factory settings, this function is turned “ON” (power-off in 10 hours). If you want to have the power remain 
+on all the time, turn it “OFF.”
+NOTE
+When the power is turned off, any settings you were editing will be lost. You must save settings that you want 
+to keep.
+OFF
+The power will not turn off automatically.
+ON
+The power will automatically turn off when 10 hours have passed since you last played or operated 
+the RC-505.
+Sys:LineOutLevel
+100
+Adjusting the Output Level of the LINE OUTPUT Jacks 
+(Line Output Level)
+Adjusts the output level of the LINE OUTPUT jacks.
+* This setting has no effect if the Output Level Select (p. 23) is “LINE+PHONES.”
+System Settings (Settings for the Entire RC-505)
+23
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Parameter
+Value
+Explanation
+Sys:InputLineOut
+ON
+Enabling the Input Audio to be Output from the LINE 
+OUTPUT Jacks (Input Line Out)
+Specifies whether the input audio will be output from the LINE OUTPUT jacks (ON) or not output (OFF).
+Sys:OutLevelSel
+LINE+PHONES
+Specifying What the [OUTPUT LEVEL] Knob Will Adjust 
+(Output Level Select)
+Specifies what will be adjusted by the [OUTPUT LEVEL] knob.
+LINE + 
+PHONES
+The output volume of the LINE OUTPUT jacks and the PHONES jack will be adjusted.
+PHONES
+Only the volume of the PHONES jack will be adjusted.
+Choose this if you want to adjust only the volume of the headphones.
+* To change the volume of the LINE OUTPUT jacks, use the [MEMORY/VALUE] knob to adjust the 
+“LineOutLevel” value that appears when you press the [SYSTEM] button twice from the play screen.
+Sys:USB Mode
+STORAGE
+Reference
+For details on the “Sys: USB...” parameters, refer to “USB-Related Settings” (p. 24).
+Sys:MIDI Rx Ch
+1
+Reference
+For details on the “Sys: MIDI...” parameters, refer to “MIDI-Related Settings” (p. 25).
+Factory Reset
+Press [WRITE]
+Reference
+Refer to following “Restoring the Factory Settings (Factory Reset)”
+.
+Restoring the RC-505’s system settings (System parameters) to 
+their original factory default settings is referred to as “Factory 
+Reset.”
+Factory Reset will return the system settings to their factory-set 
+state, and will erase (initialize) all phrase memories.
+* This device contains demo data (Phrase Memory 95–99). 
+When you erase (initialize) all phrase memories, the 
+demo data will also be erased and cannot be recovered. 
+Please back them up as described in “Backing up to your 
+computer” (p. 27).
+1.	 Press the [SYSTEM] button a number of times until the 
+“Factory Reset” appears.
+Factory Reset
+Press [WRITE]
+2.	 Press the [WRITE] button.
+The Factory Reset range setting screen appears.
+Factory Reset
+SYSTEM + MEMORY
+3.	 Use the [MEMORY/VALUE] knob to specify the settings 
+that will be returned to their factory-set state.
+Value
+Explanation
+SYSTEM + 
+MEMORY
+The system settings will be returned to their factory-set 
+state, and all phrase memories will be erased (initialized)
+SYSTEM
+The system settings will be returned to their factory-set 
+state
+MEMORY
+All phrase memories will be erased (initialized)
+* If you execute “SYSTEM + MEMORY” or “MEMORY,” all of 
+the RC-505’s phrase memories will be erased, and cannot 
+be recovered.
+4.	 If you want to proceed with the factory reset, press the 
+[WRITE] button.
+5.	 Once “Please turn off power.” appears in the display, you 
+can turn off the power.
+Restoring the Factory Settings (Factory Reset)
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+System Settings (Settings for the Entire RC-505)
+24
+USB-Related Settings
+Here you can make USB-related settings for when the RC-505 is 
+connected to a computer via USB.
+Reference
+For details on USB connection, refer to “Connecting to Your 
+Computer via USB” (p. 26).
+Parameter
+Value
+Explanation
+Sys:USB Mode
+STORAGE
+Setting the USB Mode (USB Mode)
+Specifies how the RC-505 will operate when connected to your computer using a USB cable.
+Reference
+In order to use the RC-505’s USB audio functionality, you must first install the USB driver in your computer. Refer 
+to ”Installing the USB driver” (p. 26).
+STORAGE
+The RC-505 will be in USB mass storage mode, allowing you to transfer WAV files between the RC-505 
+and your computer.
+AUDIO/MIDI
+The RC-505’s USB audio/MIDI feature is available in this mode.
+Sys:USB Audio
+Routing  LOOP IN
+Specifying the Output Destination for USB Audio Input 
+(USB Audio Routing)
+Specifies the output destination for the audio signal that is input from your computer via the RC-505’s USB port.
+LINEOUT, 
+SUB MIX
+The audio will be output from the LINE OUT jacks and the PHONES jack.
+* When “LINEOUT” is selected, the audio signal from USB IN is not outputted to USB OUT. 
+LOOP IN
+The audio will be input to the looper. It can be recorded.
+Sys:USB IN Level 
+             100
+Adjusting the USB Audio Input Volume (USB In Level)
+Specifies the input volume of the audio signal that’s input from your computer via the RC-505’s USB port.
+Sys:USB OUT
+Level        100
+Adjusting the USB Audio Output Volume (USB Out Level)
+Specifies the output volume of the audio signal that’s output to your computer via the RC-505’s USB port.
+USB audio flow
+USB IN Level
+RC-505
+USB Audio Routing
+USB OUT Level
+LINEOUT
+SUB MIX
+LOOP IN
+Same output sound as the 
+LINE OUTPUT jacks
+To Looper
+* The [OUTPUT LEVEL] knob does not affect USB audio (OUT).
+System Settings (Settings for the Entire RC-505)
+25
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+MIDI-Related Settings
+Here you can make settings for using the RC-505 with an external MIDI device or with a USB MIDI connection.
+Reference
+For details on MIDI, refer to “Connecting an External MIDI Device” (p. 28).
+Parameter
+Value
+Explanation
+Sys:MIDI Rx Ch
+1
+MIDI Receive Channel
+1–16
+Sets the MIDI channel used for receiving MIDI messages.
+Sys:MIDI Omni
+ON
+MIDI Omni Mode
+OFF
+Messages will be received only on the channel specified by the MIDI Receive Channel setting.
+ON
+Messages are received via all MIDI channels, regardless of the MIDI Receive Channel settings.
+Sys:MIDI Tx Ch
+Rx
+MIDI Transmit Channel
+1–16
+Sets the MIDI channel used for transmitting MIDI messages.
+Rx
+The MIDI transmit channel will be the same as the MIDI receive channel.
+Sys:MIDI Sync
+AUTO
+Synchronizing the Tempo (MIDI Sync)
+You can synchronize the tempo to MIDI clock data received via the MIDI IN connector or the USB port.
+You can also use a MIDI cable to synchronize two RC-505 units.
+Reference
+For more detailed information about MIDI and synchronization, refer to ”MIDI settings” (p. 28).
+AUTO
+The RC-505 will normally operate using its internal tempo, but will synchronize the tempo to MIDI 
+clock if MIDI clock data is being input via the MIDI IN connector or the USB port. Choose the “AUTO” 
+setting if using the RC-505 as a slave device.
+INTERNAL
+The RC-505 will operate using the phrase memory tempo specified within the unit. Choose the 
+“INTERNAL” setting if you don't want to synchronize the RC-505 to an external device.
+Sys:MIDI SyncSrc
+USB(AUTO)
+Choosing MIDI or USB for Synchronization 
+(MIDI Sync Source)
+Specifies whether the RC-505 will synchronize to the tempo data from the USB port or the tempo data from the 
+MIDI IN connector when MIDI Sync is “AUTO.”
+USB (AUTO)
+When connected via USB, the RC-505 will synchronize to the tempo data from the USB port. When 
+not connected via USB, it will synchronize to the tempo data from the MIDI IN connector.
+MIDI
+The RC-505 will synchronize to the tempo from the MIDI IN connector.
+Sys:MIDI PC Out
+ON
+MIDI Program Change Out
+OFF
+MIDI program change messages will not be transmitted.
+ON
+MIDI program change messages will be transmitted.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+26
+Connecting to Your Computer via USB
+If you use an USB cable to connect the RC-505’s 
+USB port to a USB port on your computer, you’ll be 
+able to do the following things.
+USB mass storage
+You can back up RC-505 tracks (WAV files) to your computer or load 
+WAV files from your computer to the RC-505.
+USB audio/MIDI
+You can play your computer’s sounds through the RC-505, or record 
+the RC-505’s sounds into your computer. You can also use USB 
+MIDI to synchronize the RC-505’s tempo to a DAW running on your 
+computer.
+Installing the USB driver
+In order to use the RC-505’s USB audio/MIDI functionality, you must 
+first install the USB driver in your computer (USB mass storage will 
+work even if you don’t install the USB driver).
+1.	 Install the USB driver in your computer.
+Download the dedicated RC-505 driver from the Roland website.
+Roland website
+http://www.roland.com/
+Refer to the Roland website for details on the operating 
+requirements. The program and procedure for installing the driver 
+will differ depending on your system. Carefully read the Readme.
+htm file included with the downloaded file.
+Setting the USB Mode (USB Mode)
+This specifies how the RC-505 will operate when connected to your 
+computer using a USB cable. For details, refer to “Setting the USB 
+Mode (USB Mode)” (p. 24).
+Connecting the RC-505 to a 
+Computer
+1.	 Use an USB cable to connect the RC-505’s USB port to your 
+computer’s USB port (a connector that supports USB 2.0 
+Hi-Speed).
+NOTE
+• This might not work correctly for some types of computers. 
+Refer to the Roland website for details on the operating systems 
+that are supported.
+• Use a USB cable that supports USB 2.0 Hi-Speed operation.
+USB Function Settings
+You can make various settings for the USB functionality, such as the 
+volume of USB audio. For details, refer to “USB-Related Settings” (p. 
+24).
+USB audio flow
+USB IN Level
+RC-505
+USB Audio Routing
+USB OUT Level
+LINEOUT
+SUB MIX
+LOOP IN
+Same output sound as the 
+LINE OUTPUT jacks
+To Looper
+* The [OUTPUT LEVEL] knob does not affect USB audio (OUT).
+Using USB to Exchange Files with 
+Your Computer (USB Mass Storage)
+You can connect the RC-505 to your computer via an USB cable, and 
+back up RC-505 tracks (WAV files) to your computer or load WAV 
+files from your computer to the RC-505.
+Playable WAV file formats
+Data Format
+WAV
+Bit Depth
+16-bit linear, stereo
+Sampling Frequency
+44.1 kHz
+Maximum size per WAV file is 2 GB, maximum time is approximately 
+3 hours.
+1.	 Press the [SYSTEM] button a number of times until the 
+“USB Mode” parameter appears.
+2.	 Turn the [MEMORY/VALUE] knob to select the “STORAGE.”
+Sys:USB Mode
+STORAGE
+3.	 Press the [EXIT] button.
+4.	 Use an USB cable to connect the RC-505’s USB port to your 
+computer’s USB port (a connector that supports USB 2.0 
+Hi-Speed).
+When the connection to the computer is completed, the message 
+“Idling...” appears.
+* You can’t make USB connections if the RC-505 is not stopped, or 
+if there is a phrase that has not been saved.
+Connecting to Your Computer via USB
+27
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+5.	 Back up the data as described below.
+Windows users
+Within Computer (or My Computer), open “BOSS_RC-505” (or 
+Removable Disk).
+Mac OS users
+On the desktop, open the “BOSS_RC-505” icon.
+Backing up to your computer
+Copy the entire “ROLAND” folder from the BOSS_RC-505 drive to 
+your computer.
+Recovering backed-up data from your 
+computer to the RC-505
+* Performing this operation will erase all phrase memories 
+that are currently saved in the RC-505. Be sure to make a 
+backup before you proceed.
+In the BOSS_RC-505 drive, delete the “ROLAND” folder, and then 
+copy the backed-up “ROLAND” folder from your computer to the 
+BOSS_RC-505 drive.
+Writing individual WAV files from your 
+computer to the RC-505’s phrase memory
+You can copy WAV files from your computer to the  
+“001_1”
+, “001_2”
+, “001_3”
+, “001_4”
+, “001_5”– 
+“099_1”
+, “099_2”
+, “099_3”
+, “099_4”
+, “099_5” 
+folders within the “ROLAND”–”WAVE” folder in the BOSS_RC-505 
+drive (In the folder name “0XX_Y,” the XX is the phrase memory 
+number and the Y is the track number).
+NOTE
+* Do not delete the folders inside the BOSS_RC-505 drive unless 
+you are performing a recovery operation.
+* You can use the following characters in file names. 
+A–Z (uppercase letters), 0–9 (numerals), _ (underscore)
+* Do not place more than one WAV file in any folder. If a folder 
+already contains a WAV file, do not overwrite it. Write your WAV 
+files into empty folders.
+6.	 When you’ve finished copying WAV files, disconnect the 
+USB drive as follows.
+Windows 8/Windows 7 users
+In the lower right of your screen, click the [
+] icon g [
+] icon, 
+and then click “Eject RC-505.”
+Windows Vista/Windows XP users
+In the lower right of your screen, click the [
+] icon ([
+] in XP) 
+and then click “Safely remove USB Mass Storage Device.”
+Mac OS users
+Drag the “BOSS_RC-505” icon to the trash (“Eject” icon).
+7.	 Press the [EXIT] button of the RC-505.
+A confirmation screen appears.
+Disconnect, OK?
+ Y:WRITE  N:EXIT
+8.	 To disconnect the connection, press the RC-505’s [WRITE] 
+button.
+NOTE
+* Never use your computer to format the “BOSS_RC-505” drive. 
+Doing so will cause the RC-505 to stop operating correctly. 
+If this occurs, you can return the RC-505 to normal operating 
+condition by executing the “Restoring the Factory Settings 
+(Factory Reset)” (p. 23), but this will irrecoverably erase all 
+phrase memories including the demo data.
+* Never perform the following actions until you have 
+disconnected the USB drive. Doing so might make your 
+computer freeze, or might result in the loss of all of the RC-505’s 
+data.
+• Disconnect the USB cable.
+• Allow your computer to enter suspend (standby) or 
+hibernate mode, restart it, or shut it down.
+• Turn off the RC-505’s power.
+* Unfortunately, it may be impossible to restore the contents of 
+data that was stored in the unit’s memory once it has been lost. 
+Roland Corporation assumes no liability concerning such loss of 
+data.
+About the original tempo of WAV files imported from a computer
+•  The original tempo (p. 14) and the number of measures in the track (Measure; p. 13) of an imported WAV file are specified by calculation based on the 
+selected rhythm’s time signature (Beat; p. 19).
+•  If you’re importing a WAV file that has a time signature other 
+than 4/4, you should first specify the rhythm’s time signature 
+(Beat; p. 19) for that phrase memory and then save the phrase 
+memory before importing the file.
+•  The RC-505 will assume that you’ve recorded “1, 2, 4, 8, 16... 
+measures,” and will calculate the tempo within the range of 
+“80–160.” 
+This means that when you import a WAV file from your 
+computer, the original tempo might be specified as double or 
+half the true tempo. In this case, you can change the original 
+tempo to the correct value by specifying the number of 
+measures (Measure; p. 13).
+In the case of 4 measures…Tempo: 140
+In the case of 2 measures…Tempo: 70
+When you import a WAV file with “tempo: 70 (number of measures: 2)” from 
+your computer, “140” will be set as the original tempo (in order to keep the 
+tempo within the range of 80–160).
+In the case of 8 measures…Tempo: 280
+In this case, you can correct the original tempo to “70” by changing the 
+number of measures (Measure; p. 13) from “4” to “2.”
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+28
+Connecting an External MIDI Device
+What is MIDI?
+MIDI (Musical Instrument Digital Interface) is a standard specification that allows musical data to be transferred between electronic musical 
+instruments and computers. If a MIDI cable is connected between devices equipped with MIDI connectors, you’ll be able to play multiple 
+devices from a single MIDI keyboard, perform ensembles using multiple MIDI instruments, program the settings to change automatically as 
+the song progresses, and more.
+About MIDI Connectors
+The following types of connector are used to convey MIDI messages. MIDI cables are connected to these connectors as needed.
+Connector
+Explanation
+MIDI IN
+Receives messages from another MIDI device.
+MIDI OUT
+Transmits messages from this device.
+MEMO
+You can also use a USB cable to connect the USB port to your computer, and use USB MIDI to transfer MIDI data between the RC-505 and your 
+computer. For details, refer to “Connecting to Your Computer via USB” (p. 26) and “Setting the USB Mode (USB Mode)” (p. 24).
+MIDI settings
+For details on the RC-505’s various MIDI parameters, refer to “MIDI-Related Settings” (p. 25).
+* Use of MIDI requires that the MIDI channels be matched with those of the connected device. Data cannot be transmitted to, nor received from 
+another MIDI device unless the MIDI channels are set properly.
+Controlling an External MIDI Device from the RC-505
+Operation
+Over View
+Explanation
+Transmitting Tempo 
+Data and Data for 
+Starting and Stopping 
+Playback
+The RC-505’s performance tempo data is 
+transmitted to external MIDI devices as MIDI 
+clock.
+Setting an external MIDI device to the same tempo as the RC-505
+MIDI clock messages are output from the RC-505 at all times. Set the external MIDI device 
+beforehand so it is ready to receive MIDI Clock and MIDI Start and Stop messages. For details, 
+refer to the owner’s manual that came with the device.
+Playback start and stop operations with the 
+RC-505’s buttons can be transmitted as MIDI 
+Start and Stop messages.
+Transmitting Start/Stop
+A MIDI Start message is transmitted at the moment that recording or playback of the track 
+begins, when tracks had been stopped. This message is also transmitted when an All Start is 
+carried out.
+A MIDI Stop message is transmitted when tracks have stopped. This is also transmitted when All 
+Stop is in carried out.
+* Tracks whose One-Shot setting (p. 12) is “ON” and tracks whose Loop Sync setting (p. 13) is “OFF” 
+will not transmit start/stop data.
+Transmitting Program 
+Change Messages
+When a phrase memory is selected with the 
+RC-505, a Program Change message cor-
+responding to the selected phrase memory 
+number is transmitted simultaneously.
+Transmitting Program Changes
+When phrase memories are switched on the RC-505, a MIDI Program Change message is 
+transmitted to the connected external MIDI device. You can transmit Program Change messages 
+numbered 1 through 99,corresponding to the 99 individual phrase memories 1–99.
+* Set “MIDI Program Change Out” (p. 25) to ON beforehand.
+* Program Change messages 100–128 cannot be transmitted.
+* Bank Select MIDI messages (Control Change #0, #32) cannot be transmitted.
+Transmitting Control 
+Change Messages
+Operations you perform using the FX knobs, 
+or an external expression pedal or external 
+footswitch can be output in the form of 
+data called Control Change messages. These 
+messages can be used for various purposes, 
+such as controlling the parameters of an 
+external MIDI device.
+Transmit a control change
+By selecting a control change as the Assign Target (p. 17), you can use the RC-505’s FX knobs, 
+or an external expression pedal or external footswitch (connected to the CTL 1, 2/EXP jack) to 
+transmit MIDI control change messages.
+Connecting an External MIDI Device
+29
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Controlling the RC-505 from an External MIDI Device
+Operation
+Over View
+Explanation
+Receiving Tempo Data 
+and Data for Starting 
+and Stopping Playback
+The RC-505 will synchronize to 
+the tempo of MIDI clock data 
+from an external MIDI device.
+Setting the RC-505 to the same tempo as an external MIDI device
+Make settings on your external MIDI device so that it will transmit MIDI clock and MIDI start/stop data. For 
+details, refer to the owner’s manual of your device.
+Set the RC-505’s MIDI Sync (p. 25) to “AUTO.”
+* You can’t switch the tempo during recording.
+Start/stop data will be received 
+from an external MIDI device to 
+play/stop the RC-505.
+Receiving MIDI start
+When MIDI start (FA) is received, all tracks will play (All Start).
+* You can use “Specifying the Tracks Started by the [ALL START/STOP] Button (All Start)” (p. 16) to specify the 
+tracks that will play.
+* Playback will not stop when FC is received. If you want playback to stop when FC is received, set “Specify-
+ing the Controller (Assign Source)” (p. 17) to “SYNC START/STOP” and set “Specifying the Assignment Target 
+(Assign Target)” (p. 17) to “ALL START/STOP.”
+Switching Phrase 
+Memory Numbers
+The RC-505’s phrase memories 
+switch simultaneously upon 
+receipt of corresponding 
+Program Change messages from 
+external MIDI devices.
+Switching Phrase Memories
+You can switch the RC-505’s phrase memories with Program Change messages from external MIDI devices.
+The RC-505 can receive Program Change messages numbered 1 through 99, corresponding to the 99 
+individual phrase memories 1–99.
+* Program Change messages 100–128 cannot be received.
+* Even if received, Bank Select MIDI messages (Control Change #0, #32) are disregarded.
+Receiving Control 
+Change Messages
+The RC-505 can be controlled 
+using Control Change messages 
+from external MIDI devices.
+Receiving control change messages
+You can use control change messages from an external MIDI device to control functions that would be 
+difficult to control using the RC-505’s own controllers.
+In “Specifying the Controller (Assign Source)” (p. 17), choose “CC#1–#31, CC#64–#95” and set “Specifying the 
+Assignment Target (Assign Target)” (p. 17) to specify the parameter that will be controlled.
+Connecting Two RC-505 Units
+Two RC-505 units can be synchronized after connecting them together using a MIDI cable.
+• Use a commercially available MIDI cable to make the following connection.
+RC-505 (Master unit)
+RC-505 (Slave unit)
+MIDI OUT connector
+MIDI IN connector
+• Begin recording on the master RC-505 unit’s tracks.
+• When you press the master RC-505 unit’s [ALL START/STOP] button, the slave RC-505 unit will also play.
+* If you want playback to stop, set “Specifying the Controller (Assign Source)” (p. 17) to “SYNC START/STOP” and set “Specifying the Assignment 
+Target (Assign Target)” (p. 17) to “ALL START/STOP.”
+* When playback of the master RC-505 unit’s track is started, the slave RC-505 unit initiates an ALL START.
+• Tracks for which Tempo Sync is ON will play at the phrase memory tempo of the master unit.
+• Tracks whose Loop Sync is ON will loop according to the first-recorded phrase on the master RC-505.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+30
+Troubleshooting
+Problem
+Items to Check
+Action
+Problems with Sound
+No sound/low volume
+Are the connection cables shorted?
+Try replacing the connection cable.
+Is the RC-505 properly connected to other 
+devices?
+Check the connections to other devices (p. 6).
+Is the power to the connected amp or mixer not 
+turned on, or is the volume turned down?
+Check the settings for connected devices.
+Could the [TRACK] sliders or the [OUTPUT 
+LEVEL] knob be lowered?
+Adjust sliders/knobs to the suitable positions.
+Could the following levels be lowered?
+• Phrase Memory Level (p. 15)
+• Track Play Level (p. 12)
+• System Line Output Level (p. 22)
+Adjust each level.
+Check whether an external expression pedal might have been used to adjust the level (p. 17).
+Has anything been recorded to the tracks?
+Check the track’s [EDIT] button to see whether the track has been recorded. If the [EDIT] 
+button is unlit, nothing has been recorded.
+No rhythm sound
+Is Rhythm Line Out (p. 19) set correctly?
+Check the Rhythm Line Out setting.
+Could the Rhythm Level (p. 19) be lowered?
+Adjust the Rhythm Level.
+The [OUTPUT LEVEL] knob does 
+not change the volume
+Is Output Level Select (p. 23) set to “PHONES”?
+Set the Output Level Select to “LINE+PHONES.”
+Sound is missing from the 
+beginning and end of the 
+recorded track
+To prevent noise, a fade-in and a fade-out are applied at the beginning and end of a recording. In some cases, it may sound as if some of the 
+sound has been left out.
+Unable to hear sounds from 
+device connected to AUX/INST/
+MIC jacks
+Are the INPUT LEVEL [INST] and [MIC] knobs 
+turned down?
+Adjust knobs to the suitable positions (p. 6).
+Is Input Line Out (p. 23) set to “OFF” in the system? Set the Input Line Out to “ON.”
+The volume level of the 
+instrument connected to AUX/
+INST jacks is too low
+Could you be using a connection cable that 
+contains a resistor?
+Use a connection cable that does not contain a resistor.
+Problems with Operation
+Phrase Memories not switching
+Is something other than the Play screen 
+appearing in the display?
+With the RC-505, you cannot switch phrase memories while any screen other than the Play 
+screen is displayed. Press the [EXIT] button to return to the Play screen.
+Recording/overdub stops 
+before finishing
+Is there insufficient memory remaining?
+If memory is insufficient, initialize any unneeded phrase memories (p. 10) before recording or 
+overdub.
+Is Loop Sync (p. 13) set to “ON” in the track?
+When recording with Loop Sync set to ON, once the end of the longest track is reached, the 
+RC-505 automatically switches to overdub.
+Playback tempo not changing
+Is recording or overdub in progress?
+You cannot change the phrase memory tempo during recording or overdub. Change the 
+tempo while the performance is stopped or being played back.
+Is Tempo Sync (p. 14) set to “ON” in the track?
+When Tempo Sync is not set to ON in a track, the playback speed does not change even if 
+the phrase memory tempo is changed. To match the playback speed to the phrase memory 
+tempo, set the track’s Tempo Sync setting to “ON.”
+Is the RC-505 synchronized via MIDI?
+If MIDI clock is being received via the MIDI IN connector or the USB port, the RC-505 will 
+synchronize its tempo to MIDI clock. If you don’t want to synchronize with an external 
+device, set MIDI Sync (p. 25) to “INTERNAL.”
+MIDI messages not being 
+transmitted/received
+Could there be a short in the MIDI cable?
+Try replacing the MIDI cable.
+Is the external MIDI device properly connected?
+Check the connections to the external MIDI device.
+Are the MIDI channels matched to those of the 
+external MIDI device?
+Confirm that both devices are set to the same MIDI channels (p. 25).
+If transmitting from the RC-505, have you made 
+the necessary settings for transmission?
+Check the Program Change Message Transmit ON/OFF (p. 25) and Control Change Message 
+Transmit settings (p. 17, p. 28).
+Problems with USB
+Unable to communicate with 
+computer
+Is the USB cable properly connected?
+Check the connection (p. 26).
+(If exchanging files with your computer via USB) 
+Is the USB Mode set to “STORAGE”?
+Set the USB Mode to “STORAGE” as described in “Using USB to Exchange Files with Your 
+Computer (USB Mass Storage)” (p. 26).
+Unable to import WAV file
+Are the file name and format of the WAV file 
+correct?
+Check the file name and format of the WAV file (p. 26).
+Troubleshooting
+31
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Error Message List
+Display
+Meaning
+Action
+Data Damaged!
+It may be that an invalid file was written while connected in USB 
+mass storage mode (e.g., when writing a WAV file). Alternatively, 
+you used your computer to format the “BOSS_RC-505” drive 
+when connected in USB mass storage mode, causing the RC-505 
+to stop operating correctly.
+In the Factory Reset function (p. 23), choose “SYSTEM + MEMORY” to 
+return the RC-505 to its factory settings.
+Data
+  Read Error!
+Data
+  Write Error!
+A problem has occurred with the content of the RC-505’s 
+memory.
+Consult your Roland dealer or local Roland Service.
+Data Too Long!
+Playback is not possible because the recording time or WAV file 
+is too long.
+The recording time or WAV file length must not exceed three hours.
+Data Too Short!
+Playback is not possible because the recording time or WAV file 
+is too short.
+The recording time or WAV file length must be at least 0.1 seconds.
+Event Full!
+Further overdub is not possible.
+Re-save the phrase.
+Memory Full!
+The maximum recording time is approximately 3 hours (total 
+for all phrase memories). When the maximum recording time 
+is exceeded, the display will show “Memory Full!” to indicate 
+that internal memory is full, and recording or overdub may end 
+before you intended. 
+Delete unneeded phrase memories (p. 10), and then try recording 
+again.
+MIDI
+  Buffer Full!
+An excessive volume of messages were received and could not 
+be processed properly.
+Reduce the number or size of MIDI messages transmitted to the 
+RC-505.
+MIDI Error!
+MIDI messages could not be properly received.
+Check to make sure that no corrupt MIDI messages are being 
+transmitted.
+Reduce the number or size of MIDI messages transmitted to the 
+RC-505.
+MIDI Off Line!
+There is a problem with the MIDI cable connection.
+Check to make sure the cable has not been disconnected and that 
+there is no short in the cable.
+Not Empty!
+When saving a phrase memory, you can’t overwrite a phrase 
+memory in which data was already saved.
+Select an empty phrase memory, and then save (p. 10).
+Stop Looper!
+The procedure cannot be carried out unless the unit is in the 
+stopped state.
+Stop the unit, then try the procedure again.
+System Error!
+A problem has occurred in the system.
+Consult your Roland dealer or local Roland Service.
+Tempo Too Fast!
+Since the track is being played at a much faster tempo than 
+when it was recorded, it might not play back correctly.
+Adjust the tempo.
+Tempo Too Slow!
+Since the track is being played at a much slower tempo than 
+when it was recorded, it might not play back correctly.
+Too Busy!
+The RC-505 could not process the data completely.
+Lower the performance tempo.
+Save the current content to a phrase memory.
+Reduce the number of adjustments or changes made with the 
+RC-505’s knobs and external pedals.
+Reduce the number or size of MIDI messages transmitted to the 
+RC-505.
+Ensure that the phrase is not shorter than 0.1 seconds.
+Unsupported
+         Format!
+This WAV file is unplayable.
+Check the format of the WAV file.
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+32
+Rhythm Pattern List
+2/4
+Simple Beat 1–4
+Shufe 1–2
+Hi-Hat 1–2
+Kick & Hi-Hat 1–5
+Rim & Hi-Hat 1–4
+Conga & Hi-Hat 1–3
+Metronome 1–2
+3/4
+Simple Beat 1–8
+Groove Beat 1–2
+Shufe
+Hi-Hat
+Kick & Hi-Hat 1–3
+Rim & Hi-Hat 1–4
+Conga & Hi-Hat 1–2
+4/4
+Simple Beat 1–5
+Downbeat Snare
+Rock 1–5
+Latin Rock 1–2
+Groove Beat 1–5
+Shufe 1–6
+1/2 Shufe 1–2
+16th Shufe 1–2
+Shufe Reggae
+Pop 1–3
+Funk 1–3
+Fusion 1–3
+Swing
+Bossa 1–3
+Samba 1–3
+Clave 1–2
+909 Beat
+909 Clap
+R&B 1–2
+Hi-Hat
+Kick & Hi-Hat 1–2
+Conga & Hi-Hat
+Conga & Maracas
+5/4
+Simple Beat 1–4
+Groove Beat 1–3
+Swing 1–2
+Hi-Hat 1–4
+Kick & Hi-Hat 1–4
+Rim & Hi-Hat
+Conga & Hi-Hat 1–2
+6/4
+Simple Beat 1–7
+Groove Beat 1–2
+Shufe
+Swing 1–2
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat
+Conga & Maracas
+7/4
+Simple Beat 1–7
+Groove Beat 1–2
+Shufe
+Swing 1–2
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat
+Conga & Maracas
+5/8
+Simple Beat 1–10
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–3
+Kick & Hi-Hat
+Rim & Hi-Hat
+Conga & Maracas
+6/8
+Simple Beat 1–10
+Swing 1–2
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat
+Conga & Maracas
+Simple Beat 1–9
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+8/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+9/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+10/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+11/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+13/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+14/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+15/8
+Simple Beat 1–6
+Groove Beat 1–3
+Bossa Feel
+Samba Feel 1–2
+909 Beat
+909 Clap
+Hi-Hat 1–2
+Kick & Hi-Hat 1–2
+Rim & Hi-Hat
+Conga & Maracas
+7/8
+12/8
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Metronome 1–2
+Beat
+Pattern
+Beat
+Pattern
+Beat
+Pattern
+Beat
+Pattern
+33
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+USING THE UNIT SAFELY
+ WARNING
+To completely turn off power to the unit, pull out 
+the plug from the outlet
+Even with the power switch turned off, this 
+unit is not completely separated from its 
+main source of power. When the power 
+needs to be completely turned off, turn off 
+the power switch on the unit, then pull out 
+the plug from the outlet. For this reason, the outlet into 
+which you choose to connect the power cord’s plug should 
+be one that is within easy reach and readily accessible.
+Concerning the Auto Off function
+The power to this unit will be turned off 
+automatically after a predetermined amount 
+of time has passed since it was last used 
+for playing music, or its buttons or controls 
+were operated (Auto Off function). If you 
+do not want the power to be turned off automatically, 
+disengage the Auto Off function (p. 22).
+Do not disassemble or modify by yourself
+Do not open (or modify in any way) the unit 
+or its AC adaptor.
+Do not repair or replace parts by yourself
+Do not attempt to repair the unit, or replace 
+parts within it (except when this manual 
+provides specific instructions directing you 
+to do so). Refer all servicing to your retailer, 
+the nearest Roland Service Center, or an 
+authorized Roland distributor, as listed on the “Information” 
+page.
+Do not use or store in the following types of 
+locations
+• Subject to temperature extremes (e.g., 
+direct sunlight in an enclosed vehicle, 
+near a heating duct, on top of heat-
+generating equipment); or are
+• Damp (e.g., baths, washrooms, on wet 
+floors); or are
+• Exposed to steam or smoke; or are
+• Subject to salt exposure; or are
+• Humid; or are
+• Exposed to rain; or are
+• Dusty or sandy; or are
+• Subject to high levels of vibration and shakiness.
+Do not place in an unstable location
+Make sure you always have the unit placed 
+so it is level and sure to remain stable. Never 
+place it on stands that could wobble, or on 
+inclined surfaces.
+Use only the supplied AC adaptor and the correct 
+voltage
+Be sure to use only the AC adaptor supplied 
+with the unit. Also, make sure the line voltage 
+at the installation matches the input voltage 
+specified on the AC adaptor’s body. Other AC 
+adaptors may use a different polarity, or be 
+designed for a different voltage, so their use could result in 
+damage, malfunction, or electric shock.
+Do not bend the power cord or place heavy objects on it
+Do not excessively twist or bend the power 
+cord, nor place heavy objects on it. Doing 
+so can damage the cord, producing severed 
+elements and short circuits. Damaged cords 
+are fire and shock hazards!
+ WARNING
+Avoid extended use at high volume
+This unit, either alone or in combination with 
+an amplifier and headphones or speakers, 
+may be capable of producing sound levels 
+that could cause permanent hearing loss. 
+Do not operate for a long period of time at 
+a high volume level, or at a level that is uncomfortable. If 
+you experience any hearing loss or ringing in the ears, you 
+should immediately stop using the unit, and consult an 
+audiologist.
+Don’t allow foreign objects or liquids to enter 
+unit; never place containers with liquid on unit
+Do not place containers containing liquid 
+(e.g., flower vases) on this product. Never 
+allow foreign objects (e.g., flammable 
+objects, coins, wires) or liquids (e.g., water 
+or juice) to enter this product. Doing so may 
+cause short circuits, faulty operation, or other 
+malfunctions.
+Turn off the unit if an abnormality or malfunction 
+occurs
+Immediately turn the unit off, remove the 
+AC adaptor from the outlet, and request 
+servicing by your retailer, the nearest Roland 
+Service Center, or an authorized Roland 
+distributor, as listed on the “Information” 
+page when:
+• The AC adaptor or the power-supply cord has been 
+damaged; or
+• If smoke or unusual odor occurs; or
+• Objects have fallen into, or liquid has been spilled 
+onto the unit; or
+• The unit has been exposed to rain (or otherwise has 
+become wet); or
+• The unit does not appear to operate normally or 
+exhibits a marked change in performance.
+Adults must provide supervision in places where 
+children are present
+Always make sure that an adult is on hand 
+to provide supervision and guidance when 
+using the unit in places where children are 
+present.
+Do not drop or subject to strong impact
+Protect the unit from strong impact.
+(Do not drop it!)
+Do not share an outlet with an unreasonable 
+number of other devices
+Do not force the unit’s power-supply cord 
+to share an outlet with an unreasonable 
+number of other devices. Be especially 
+careful when using extension cords—the 
+total power used by all devices you have 
+connected to the extension cord’s outlet must never exceed 
+the power rating (watts/amperes) for the extension cord. 
+Excessive loads can cause the insulation on the cord to heat 
+up and eventually melt through.
+Do not use overseas
+Before using the unit in overseas, consult 
+with your retailer, the nearest Roland Service 
+Center, or an authorized Roland distributor, 
+as listed on the “Information” page.
+ CAUTION
+Place in a well ventilated location
+The unit and the AC adaptor should be 
+located so their location or position does not 
+interfere with their proper ventilation.
+When disconnecting an AC adaptor, grasp it by the 
+plug
+To prevent conductor damage, always grasp 
+the AC adaptor by its body or its plug when 
+disconnecting it from this unit or from a 
+power outlet.
+Periodically clean the AC adaptor’s plug
+At regular intervals, you should unplug the 
+AC adaptor and clean it by using a dry cloth 
+to wipe all dust and other accumulations 
+away from its prongs. Also, disconnect the 
+power plug from the power outlet whenever 
+the unit is to remain unused for an extended period of time. 
+Any accumulation of dust between the power plug and the 
+power outlet can result in poor insulation and lead to fire.
+Manage cables for safety
+Try to prevent cords and cables from 
+becoming entangled. Also, all cords and 
+cables should be placed so they are out of 
+the reach of children.
+Avoid climbing on top of the unit, or placing heavy 
+objects on it
+Never climb on top of, nor place heavy 
+objects on the unit.
+Do not connect or disconnect the AC adaptor with 
+wet hands
+Never handle the AC adaptor body, or its 
+output plugs, with wet hands when plugging 
+into, or unplugging from, an outlet or this 
+unit.
+Disconnect everything before moving the unit
+Before moving the unit, disconnect the AC 
+adaptor and all cords coming from external 
+devices.
+Unplug the AC adaptor from the outlet before 
+cleaning
+Before cleaning the unit, turn it off and 
+unplug the AC adaptor from the outlet (p. 7).
+If there is a possibility of lightning strike, 
+disconnect the AC adaptor from the outlet
+Whenever you suspect the possibility of 
+lightning in your area, disconnect the AC 
+adaptor from the outlet.
+Precautions concerning use of phantom power supply
+Always turn the phantom power off 
+when connecting any device other than 
+condenser microphones that require 
+phantom power. You risk causing damage 
+if you mistakenly supply phantom power 
+to dynamic microphones, audio playback devices, or other 
+devices that don’t require such power. Be sure to check 
+the specifications of any microphone you intend to use by 
+referring to the manual that came with it.
+(This instrument’s phantom power: 48 V DC, 10 mA Max)
+Used for instructions intended to alert the 
+user to the risk of injury or material 
+damage should the unit be used 
+improperly. 
+* Material damage refers to damage or 
+other adverse effects caused with 
+respect to the home and all its 
+furnishings, as well to domestic animals 
+or pets. 
+Used for instructions intended to alert the 
+user to the risk of death or severe injury 
+should the unit be used improperly. 
+The       symbol alerts the user to things that must be 
+carried out. The specific thing that must be done is 
+indicated by the design contained within the circle. In the 
+case of the symbol at left, it means that the power-cord 
+plug must be unplugged from the outlet. 
+The       symbol alerts the user to important instructions or 
+warnings.The specific meaning of the symbol is 
+determined by the design contained within the triangle. In 
+the case of the symbol at left, it is used for general 
+cautions, warnings, or alerts to danger. 
+The       symbol alerts the user to items that must never be 
+carried out (are forbidden). The specific thing that must 
+not be done is indicated by the design contained within 
+the circle. In the case of the symbol at left, it means that 
+the unit must never be disassembled. 
+About       WARNING and       CAUTION Notices
+About the Symbols
+ALWAYS OBSERVE THE FOLLOWING
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+34
+IMPORTANT NOTES
+Power Supply
+• Do not connect this unit to same electrical outlet 
+that is being used by an electrical appliance that 
+is controlled by an inverter or a motor (such as a 
+refrigerator, washing machine, microwave oven, or 
+air conditioner). Depending on the way in which 
+the electrical appliance is used, power supply noise 
+may cause this unit to malfunction or may produce 
+audible noise. If it is not practical to use a separate 
+electrical outlet, connect a power supply noise filter 
+between this unit and the electrical outlet.
+• The AC adaptor will begin to generate heat after long 
+hours of consecutive use. This is normal, and is not a 
+cause for concern.
+• To prevent malfunction and equipment failure, 
+always make sure to turn off the power on all your 
+equipment before you make any connections.
+Placement
+• Using the unit near power amplifiers (or other 
+equipment containing large power transformers) 
+may induce hum. To alleviate the problem, change 
+the orientation of this unit; or move it farther away 
+from the source of interference.
+• This device may interfere with radio and television 
+reception. Do not use this device in the vicinity of 
+such receivers.
+• Noise may be produced if wireless communications 
+devices, such as cell phones, are operated in the 
+vicinity of this unit. Such noise could occur when 
+receiving or initiating a call, or while conversing. 
+Should you experience such problems, you should 
+relocate such wireless devices so they are at a greater 
+distance from this unit, or switch them off.
+• Do not expose the unit to direct sunlight, place 
+it near devices that radiate heat, leave it inside 
+an enclosed vehicle, or otherwise subject it to 
+temperature extremes. Excessive heat can deform or 
+discolor the unit.
+• When moved from one location to another where 
+the temperature and/or humidity is very different, 
+water droplets (condensation) may form inside 
+the unit. Damage or malfunction may result if you 
+attempt to use the unit in this condition. Therefore, 
+before using the unit, you must allow it to stand for 
+several hours, until the condensation has completely 
+evaporated.
+• Depending on the material and temperature of the 
+surface on which you place the unit, its rubber feet 
+may discolor or mar the surface. 
+You can place a piece of felt or cloth under the 
+rubber feet to prevent this from happening. If you 
+do so, please make sure that the unit will not slip or 
+move accidentally.
+• Do not place containers or anything else containing 
+liquid on top of this unit. Also, whenever any liquid 
+has been spilled on the surface of this unit, be sure to 
+promptly wipe it away using a soft, dry cloth.
+Maintenance
+• For everyday cleaning wipe the unit with a soft, 
+dry cloth or one that has been slightly dampened 
+with water. To remove stubborn dirt, use a cloth 
+impregnated with a mild, non-abrasive detergent. 
+Afterwards, be sure to wipe the unit thoroughly with 
+a soft, dry cloth.
+• Never use benzine, thinners, alcohol or solvents of 
+any kind, to avoid the possibility of discoloration 
+and/or deformation.
+Repairs and Data
+• Before sending the unit away for repairs, be sure to 
+make a backup of the data stored within it; or you 
+may prefer to write down the needed information. 
+Although we will do our utmost to preserve the 
+data stored in your unit when we carry out repairs, 
+in some cases, such as when the memory section 
+is physically damaged, restoration of the stored 
+content may be impossible. Roland assumes no 
+liability concerning the restoration of any stored 
+content that has been lost.
+Additional Precautions
+• Any data stored within the unit can be lost as the 
+result of equipment failure, incorrect operation, etc. 
+To protect yourself against the irretrievable loss of 
+data, try to make a habit of creating regular backups 
+of the data you’ve stored in the unit.
+• Roland assumes no liability concerning the 
+restoration of any stored content that has been lost.
+• Use a reasonable amount of care when using the 
+unit’s buttons, sliders, or other controls; and when 
+using its jacks and connectors. Rough handling can 
+lead to malfunctions.
+• Never strike or apply strong pressure to the display.
+• When disconnecting all cables, grasp the connector 
+itself—never pull on the cable. This way you will 
+avoid causing shorts, or damage to the cable’s 
+internal elements.
+• To avoid disturbing others nearby, try to keep the 
+unit’s volume at reasonable levels.
+• When you need to transport the unit, package it 
+in the box (including padding) that it came in, if 
+possible. Otherwise, you will need to use equivalent 
+packaging materials.
+• Use only the specified expression pedal (Roland 
+EV-5, etc. ; sold separately). By connecting any other 
+expression pedals, you risk causing malfunction and/
+or damage to the unit.
+• Some connection cables contain resistors. Do not use 
+cables that incorporate resistors for connecting to 
+this unit. The use of such cables can cause the sound 
+level to be extremely low, or impossible to hear. For 
+information on cable specifications, contact the 
+manufacturer of the cable.
+• The explanations in this manual include illustrations 
+that depict what should typically be shown by 
+the display. Note, however, that your unit may 
+incorporate a newer, enhanced version of the system 
+(e.g., includes newer sounds), so what you actually 
+see in the display may not always match what 
+appears in the manual.
+Copyright
+• It is forbidden by law to make an audio recording, 
+video recording, copy or revision of a third party’s 
+copyrighted work (musical work, video work, 
+broadcast, live performance, or other work), whether 
+in whole or in part, and distribute, sell, lease, 
+perform, or broadcast it without the permission of 
+the copyright owner.
+• Do not use this product for purposes that could 
+infringe on a copyright held by a third party. We 
+assume no responsibility whatsoever with regard to 
+any infringements of third-party copyrights arising 
+through your use of this product.
+• The copyright of content in this product (the sound 
+waveform data, style data, accompaniment patterns, 
+phrase data, audio loops and image data) is reserved 
+by Roland Corporation. 
+• Purchasers of this product are permitted to utilize 
+said content for the creating, performing, recording 
+and distributing original musical works. 
+• Purchasers of this product are NOT permitted to 
+extract said content in original or modified form, for 
+the purpose of distributing recorded medium of said 
+content or making them available on a computer 
+network.
+• MMP (Moore Microprocessor Portfolio) refers to a 
+patent portfolio concerned with microprocessor 
+architecture, which was developed by Technology 
+Properties Limited (TPL). Roland has licensed this 
+technology from the TPL Group.
+• The SD logo (
+) and SDHC logo (
+) are 
+trademarks of SD-3C, LLC.
+• ASIO is a trademark and software of Steinberg Media 
+Technologies GmbH.
+• This product contains eCROS integrated software 
+platform of eSOL Co.,Ltd. eCROS is a trademark of 
+eSOL Co., Ltd. in Japan.
+• Roland, BOSS and LOOP STATION are either 
+registered trademarks or trademarks of Roland 
+Corporation in the United States and/or other 
+countries.
+• Company names and product names appearing 
+in this document are registered trademarks or 
+trademarks of their respective owners.
+35
+Basic Operation
+Saving
+Track
+Phrase Memory
+Rhythm
+FX
+System
+USB
+MIDI
+Appendix
+Index
+A
+All Start . .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   16
+[ALL START/STOP] button. .   4, 16
+Assign. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   17
+Assign Source. .  .  .  .  .  .  .  . . . . . . .   17
+Assign Src Mode. .  .  .  .  .  .  . . . . . .   17
+Assign Switch.
+ .  .  .  .  .  .  .  . . . . . . . .   17
+Assign Target. .  .  .  .  .  . . . . . .   17, 18
+Auto Off. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   22
+B
+Beat. .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   19
+Bit Depth. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   26
+C
+Clear. .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   4
+Comp. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   15
+Comp Level.
+ .  .  .  .  .  .  .  .  . . . . . . . . .   15
+Copy Track. . . . . . . . . . . . . . . . . . .  11
+cord hook. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   7
+Count-In. . . . . . . . . . . . . . . . . . . . .  19
+D
+Data Format. .  .  .  .  .  .  .  .  . . . . . . . .   26
+DC IN jack. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   6
+demo data . .  .  .  .  .  .  .  .  .  . . . . . . . . .   1
+Display. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   22
+E
+[EDIT] button. .  .  .  .  .  .  .  .  . . . . . . . .   5
+Error Message. .  .  .  .  .  .  .  . . . . . . .   31
+EV-5. .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   18
+Exchange.
+ .  .  .  .  .  .  .  .  .  . . . . . . . . . .   10
+expression pedal . .  .  .  .  .  . . . . . .   18
+F
+Factory Reset. .  .  .  .  .  .  .  . . . . . . . .   23
+Fade Time. .  .  .  .  .  .  .  .  .  . . . . . . . . .   16
+footswitches.
+ .  .  .  .  .  .  .  .  . . . . . . . .   18
+formats.
+ .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   26
+FS-5U. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   18
+FS-6. .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   18
+FX Type. . . . . . . . . . . . . . . . . . . . . .  20
+H
+headphones. .  .  .  .  .  . . . . .   6, 19, 23
+I
+Indicator. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   22
+Initialize. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   10
+INPUT AUX jack. .  .  .  .  .  .  .  . . . . . . .   6
+Input FX. .  .  .  .  .  .  .  .  . . . . . . . . . .   4, 20
+[INPUT FX] knob. .  .  .  .  .  .  . . . . . .   20
+INPUT INST jack.
+ .  .  .  .  .  .  .  . . . . . . .   6
+Input Level. .  .  .  .  .  .  .  .  .  . . . . . . . . .   6
+[INPUT LEVEL] knob.
+ .  .  .  .  .  . . . . .   6
+InputLineOut. .  .  .  .  .  .  .  . . . . . . . .   23
+INPUT MIC jack. .  .  .  .  .  .  .  . . . . . . .   6
+L
+LCD Contrast. .  .  .  .  .  .  .  . . . . . . . .   22
+LineOutLevel. .  .  .  .  .  .  .  . . . . . . . .   22
+LINE OUTPUT jacks.
+ .  .  .  .  .  . . . . . .   6
+Load UsrSet . .  .  .  .  .  .  .  .  . . . . . . . .   11
+Loop Indicator. .  .  .  .  .  .  .  . . . . . . .   22
+Loop Length.
+ .  .  .  .  .  .  .  .  . . . . . . . .   16
+Loop Quantize.
+ .  .  .  .  .  .  .  . . . . . . .   16
+Loop Sync. .  .  .  .  .  .  .  .  .  . . . . . . . . .   13
+M
+Measure. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   13
+Memory Level. .  .  .  .  .  .  .  . . . . . . .   15
+Memory Names . .  .  .  .  .  .  . . . . . .   16
+MIDI.
+ .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   25, 28
+MIDI Omni.
+ .  .  .  .  .  .  .  .  .  . . . . . . . . .   25
+MIDI PC Out. .  .  .  .  .  .  .  .  . . . . . . . .   25
+MIDI Rx Ch . .  .  .  .  .  .  .  .  . . . . . . . . .   25
+MIDI Sync . .  .  .  .  .  .  .  .  .  . . . . . . . . .   25
+MIDI SyncSrc . .  .  .  .  .  .  .  . . . . . . . .   25
+MIDI Tx Ch. .  .  .  .  .  .  .  .  .  . . . . . . . . .   25
+MULTI. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   12
+N
+Name. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   16
+O
+One-Shot (1Shot). .  .  .  .  .  . . . . . .   12
+original tempo. . . . . . . . . . .  14, 27
+OutLevelSel. .  .  .  .  .  .  .  .  . . . . . . . .   23
+[OUTPUT LEVEL] knob . .  .  .  . . .   23
+Overdub . .  .  .  .  .  .  .  .  .  . . . . . . . . .   3, 4
+Overdub Mode. .  .  .  .  .  .  . . . . . . .   15
+P
+Pan.
+ .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .   12
+parameter setting . .  .  .  .  .  . . . . . .   5
+Pedals. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   18
+PhantomPower. .  .  .  .  .  .  .  . . . . . . .   6
+PHONES jack . .  .  .  .  .  .  .  .  . . . . . . . .   6
+phrase memory.
+ .  .  .  .  .  . . . . . .   3, 15
+phrase memory tempo. .  . .   5, 15
+Playback . .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   4
+PlayLevel. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   12
+Play Mode. .  .  .  .  .  .  .  .  .  . . . . . . . . .   12
+Play Screen. .  .  .  .  .  .  .  .  .  . . . . . . . . .   5
+[POWER] switch.
+ .  .  .  .  .  .  .  . . . . . . .   7
+Q
+Quantize. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   16
+R
+Rec Action.
+ .  .  .  .  .  .  .  .  .  . . . . . . . . .   15
+Recording. .  .  .  .  .  .  .  .  . . . . . . . . .   3, 4
+REDO.
+ .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   4
+Reverb. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   15
+Reverse. . . . . . . . . . . . . . . . . . . . . .  12
+Rhythm . .  .  .  .  .  .  .  .  . . . . . . . . . .   5, 19
+Rhythm: Beat. .  .  .  .  .  .  .  . . . . . . . .   19
+RHYTHM [EDIT] button . .  .  .  . . .   5
+Rhythm: Level. .  .  .  .  .  .  .  . . . . . . .   19
+Rhythm: Line Out. .  .  .  .  .  . . . . . .   19
+Rhythm Pattern.
+ .  .  .  .  . . . . .   19, 32
+Rhythm: Pattern. .  .  .  .  .  .  . . . . . .   19
+Rhythm: PlayCount. .  .  .  .  . . . . .   19
+Rhythm: Rec Count. .  .  .  .  . . . . .   19
+RHYTHM [START/STOP] button.  5
+Rhythm: Stop. .  .  .  .  .  .  .  . . . . . . . .   19
+S
+Sampling Frequency. .  .  .  .  . . . .   26
+Saving.
+ .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   10
+Single Play . .  .  .  .  .  .  .  .  . . . . . . . . .   15
+Single Play Change. .  .  .  .  . . . . .   15
+Source Mode. .  .  .  .  .  .  .  . . . . . . . .   17
+StartMode. .  .  .  .  .  .  .  .  .  . . . . . . . . .   13
+[START/STOP] button. .  .  .  .  . . . .   5
+Stop.
+ .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .   4
+Stop Mode. .  .  .  .  .  .  .  .  . . . . . . . . .   13
+Sync.
+ .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   25, 29
+Sys. .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . .   22
+System Settings . .  .  .  .  .  .  . . . . . .   22
+T
+Tap Tempo . .  .  .  .  .  .  .  .  .  . . . . . . . . .   5
+[TAP TEMPO] button. .  .  .  .  . . . . .   5
+Target Range. .  .  .  .  .  .  .  . . . . . . . .   18
+TargetTrack. .  .  .  .  .  .  .  .  . . . . . . . . .   16
+Tempo. .  .  .  .  .  . . . . . .   5, 14, 15, 25
+TempoSync. .  .  .  .  .  .  .  .  . . . . . . . . .   14
+track. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   3, 12
+Track Copy . .  .  .  .  .  .  .  .  . . . . . . . . .   11
+Track FX. .  .  .  .  .  .  . . . . . . . .   4, 12, 20
+[TRACK FX] knob . .  .  .  .  .  . . . . . .   20
+U
+UNDO. .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . .   4
+[UNDO/REDO] button.
+ .  .  .  .  . . . .   4
+USB. .  .  .  .  .  .  .  .  .  .  . . . . . . . . . .   24, 26
+USB Audio. .  .  .  .  .  .  .  .  . . . . . . . . . .   24
+USB audio/MIDI.
+ .  .  .  .  .  .  . . . . . . .   26
+USB Audio Routing. .  .  .  .  . . . . .   24
+USB driver. .  .  .  .  .  .  .  .  . . . . . . . . . .   26
+USB IN Level. .  .  .  .  .  .  .  . . . . . . . . .   24
+USB mass storage. .  .  .  .  .  . . . . . .   26
+USB Mode. .  .  .  .  .  .  .  .  . . . . . . . . . .   24
+USB OUT. .  .  .  .  .  .  .  .  .  . . . . . . . . . .   24
+USB Out Level. .  .  .  .  .  .  . . . . . . . .   24
+UsrSet (User Set). .  .  .  .  .  . . . . . . .   11
+W
+WAV file. .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   26
+WAV file formats. .  .  .  .  .  . . . . . . .   26
+[WRITE] button. .  .  .  .  .  .  . . . . . . .   10
+Write to. .  .  .  .  .  .  .  .  .  . . . . . . . . . . .   10
+WriteUsrSet . .  .  .  .  .  .  .  . . . . . . . . .   11
+Nl
+Pt
+Es
+It
+Fr
+De
+English
+36
+Specifications
+BOSS RC-505: Loop Station
+Nominal Input Level
+INPUT MIC (variable): -40 dBu (typ.), -10 dBu (max)
+INPUT INST (variable): -10 dBu (typ.), +4 dBu (max)
+INPUT AUX: -20 dBu
+Input Impedance
+INPUT MIC: 4 k ohms
+INPUT INST: 200 k ohms
+INPUT AUX: 22 k ohms
+Nominal Output 
+Level
+LINE OUT: -10 dBu
+Output Impedance
+LINE OUT: 2 k ohms
+Recommended Load 
+Impedance
+LINE OUT: 10 k ohms or greater
+Recording/Playback
+Maximum Recording Time: Approx. 3 hours (stereo)
+Maximum Phrase Memory: 99
+Number of Tracks: 5
+Data Format: WAV (44.1 kHz, 16-bit linear, stereo)
+Effect Type
+INPUT FX/TRACK FX
+FILTER, PHASER, FLANGER, SYNTH, LO-FI, 
+GUITAR TO BASS, TRANSPOSE, ROBOT, VOCAL DIST, 
+VOCODER, COMP, EQ, ISOLATOR, OCTAVE, PAN, SLICER, 
+DELAY, TAPE ECHO, GRANULAR DELAY, CHORUS, REVERB,  
+BEAT REPEAT *1, BEAT SHIFT *1, BEAT SCATTER *1,  
+VINYL FLICK *1
+MASTER FX
+COMP, REVERB
+*1 TRACK FX only
+Rhythm Type
+85
+Display
+16 characters, 2 lines (backlit LCD)
+USB
+Mass Storage Class
+Audio/MIDI
+Connectors
+INPUT MIC jack: XLR type (balanced, phantom power: DC 
+48 V, 10 mA Max)
+INPUT INST (L/MONO, R) jacks: 1/4-inch phone type
+INPUT AUX jack: Stereo miniature phone type
+PHONES jack: 1/4-inch Stereo phone type
+LINE OUTPUT (L/MONO, R) jacks: 1/4-inch Stereo phone 
+type
+CTL 1, 2/EXP jack: 1/4-inch TRS phone type
+USB port: USB Type B
+MIDI (IN, OUT) connectors
+DC IN jack
+Power Supply
+AC adaptor
+Current Draw
+420 mA
+Dimensions
+420 (W) x 210 (D) x 68 (H) mm
+16-9/16 (W) x 8-5/16 (D) x 2-11/16 (H) inches
+Weight
+1.4 kg
+3 lbs 2 oz
+Accessories
+AC adaptor
+Owner’s manual
+Options  
+(sold separately)
+Footswitch: FS-5U, FS-6
+Expression pedal: Roland EV-5, FV-500L, FV-500H
+* 0 dBu = 0.775 Vrms
+* In the interest of product improvement, the specifications and/
+or appearance of this unit are subject to change without prior 
+notice.
+Memo
+For EU Countries
+For China
+For the USA
+DECLARATION OF CONFORMITY
+Compliance Information Statement
+Model Name :
+Type of Equipment :
+Responsible Party :
+Address :
+Telephone :
+RC-505
+Effector
+Roland Corporation U.S.
+5100 S. Eastern Avenue, Los Angeles, CA 90040-2938
+(323) 890-3700
+This product complies with the requirements of EMC Directive 2004/108/EC.
+For EU Countries
+For the USA
+FEDERAL COMMUNICATIONS COMMISSION
+RADIO FREQUENCY INTERFERENCE STATEMENT
+This equipment has been tested and found to comply with the limits for a Class B digital device, pursuant to Part 15 of the 
+FCC Rules. These limits are designed to provide reasonable protection against harmful interference in a residential 
+installation. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in 
+accordance with the instructions, may cause harmful interference to radio communications. However, there is no guarantee 
+that interference will not occur in a particular installation. If this equipment does cause harmful interference to radio or 
+television reception, which can be determined by turning the equipment off and on, the user is encouraged to try to correct the 
+interference by one or more of the following measures:
+–   Reorient or relocate the receiving antenna.
+–   Increase the separation between the equipment and receiver.
+–   Connect the equipment into an outlet on a circuit different from that to which the receiver is connected.
+–   Consult the dealer or an experienced radio/TV technician for help.
+This device complies with Part 15 of the FCC Rules. Operation is subject to the following two conditions:
+ (1) this device may not cause harmful interference, and
+ (2) this device must accept any interference received, including interference that may cause undesired operation.
+This equipment requires shielded interface cables in order to meet FCC class B limit.
+Any unauthorized changes or modifications not expressly approved by the party responsible for compliance could void the user’s 
+authority to operate the equipment.
+WARNING
+This product contains chemicals known to cause cancer, birth defects and other reproductive harm, including lead.
+For C.A. US (Proposition 65)
+For Canada
+CAN ICES-3 (B)/NMB-3 (B)
+For Korea
+*
+5
+1
+0
+0
+0
+3
+3
+4
+1
+0
+-
+0
+2
+*

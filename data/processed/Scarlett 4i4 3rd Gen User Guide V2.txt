@@ -1,0 +1,584 @@
+User Guide
+focusrite.com
+Version 2
+2
+TABLE OF CONTENTS
+OVERVIEW .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Introduction .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Features .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+Box Contents .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+System requirements .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+GETTING STARTED .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 5
+Quick Start Tool .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Mac users only: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+Windows only: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+All users: .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Manual Registration .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Audio Setup in your DAW .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+Loopback Inputs  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Examples of Usage .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Connecting a microphone or instrument .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . 12
+Using Direct Monitoring .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Connecting Scarlett 4i4 to loudspeakers .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . 13
+Creating an effects loop  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Connecting Scarlett 4i4 to a DJ mixer .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . 16
+HARDWARE FEATURES .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 17
+Front Panel .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Back Panel  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+CHANNEL LISTINGS .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 19
+Performance Specifications .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Physical and Electrical Characteristics . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+TROUBLESHOOTING .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+COPYRIGHT AND LEGAL NOTICES .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 23
+3
+OVERVIEW
+Introduction
+Thank you for purchasing this Third Generation Scarlett 4i4, one of the family of Focusrite professional 
+computer audio interfaces incorporating high quality Focusrite analogue preamps. You now have a 
+simple and compact solution for routing high quality audio to and from your computer and you will 
+also be able to download some exciting new software plug-ins once you’ve registered the product.
+In developing the Third Generation series of Scarlett interfaces, we have made further improvements 
+to both performance and features. Audio specifications have been upgraded throughout the unit to 
+give you greater dynamic range and even lower noise and distortion; additionally, the mic preamp now 
+accepts higher input levels. An important enhancement is the inclusion of Focusrite’s AIR function. 
+Individually selectable on Inputs 1 and 2, AIR subtly modifies the preamp’s frequency response to 
+model the sonic characteristics of our classic transformer-based ISA microphone preamps. When 
+recording with good quality microphones, you will notice an enhanced clarity and definition in the 
+important mid to high frequency range, just where it is most needed for vocals and many acoustic 
+instruments. Third Generation Scarlett interfaces are class compliant on macOS: this means they 
+are plug-and-play, so no need to install a driver if you are a Mac user. 
+This User Guide provides a detailed explanation of the hardware to help you achieve a thorough 
+understanding of the product’s operational features. We recommend both users who are new to 
+computer-based recording, as well as more experienced users, take the time to read through the 
+User Guide so you are fully aware of all the possibilities the Scarlett 4i4 and accompanying software 
+has to offer. If the main User Guide sections do not provide the information you need, be sure to 
+consult support.focusrite.com, which contains a comprehensive collection of answers to common 
+technical support queries.
+Features
+The Scarlett 4i4 hardware interface provides the means for connecting microphones, musical 
+instruments or line level audio signals to a computer running Mac OS or Windows. The signals at the 
+physical inputs can be routed to your audio recording software / digital audio workstation (referred 
+to throughout this User Guide as the “DAW”) at up to 24-bit, 192 kHz resolution; similarly, the DAW’s 
+monitor or recorded output will appear at the unit’s physical outputs.
+Audio sources – mics, instruments, etc. - connected to the physical inputs can be recorded in the 
+DAW and routed from your DAW to the physical outputs. The 4i4 is equipped with four audio output 
+channels, which can be connected to an amplifier and speakers, powered monitors, headphones, DJ 
+or other type of analogue mixer, or any other analogue audio equipment you wish to use. Although 
+all inputs and outputs on the Scarlett 4i4 are routed directly to and from your DAW for recording and 
+playback, you can configure the routing within the 4i4’s accompanying Focusrite Control application 
+To meet your needs. The 4i4 also acts as a convenient MIDI interface between your computer and 
+other MIDI equipment.
+For DJs, the four analogue outputs make it possible to have a stereo main output and a headphone 
+cue channel when mixing internally on a laptop; alternatively you have two separate stereo outputs 
+at your disposal for connection to an analogue DJ mixer.
+4
+Box Contents
+Along with your Scarlett 4i4 you should have:
+•	
+USB cable, Type ‘A’ to Type ‘C’
+•	
+Getting Started Information (printed inside the box lid)
+•	
+Important Safety Information
+System requirements
+The easiest way to check your computer’s operating system (OS) is compatible with your Scarlett is 
+to use our Help Centre’s compatibility articles: 
+support.focusrite.com/hc/categories/200693655
+As new OS versions become available over time, you can continue to check for further compatibility 
+information by searching our Help Centre at support.focusrite.com.
+5
+GETTING STARTED
+With the Third Generation, Scarlett interfaces introduce a new, faster way of getting up and running, 
+using the Scarlett Quick Start tool. All you need to do is connect your Scarlett 4i4 to your computer. 
+Once connected, you will see the device is recognised by your PC or Mac and the Quick Start tool will 
+guide you through the process from there.
+IMPORTANT: The Scarlett 4i4 has a single USB 2.0 Type C port (on the rear panel): connect it to 
+your computer using the USB cable provided. The Scarlett 4i4 3rd Gen requires 900mA of power 
+for complete operation. All USB 3.0 and most USB 2.0 ports are capable of providing this level of 
+current.
+If you are not sure if your computer’s USB 2.0 port can supply this level of current, please contact 
+your computer’s manufacturer for more information.
+Your computer will initially treat your Scarlett as a Mass Storage Device (MSD), and during its first 
+connection, the Scarlett will be in “Easy Start mode”
+Quick Start Tool
+We have tried to make registering your Scarlett 4i4 as simple as possible. The steps are designed to 
+be self explanatory, but we have described each step below, so you can see how they should appear 
+on either a PC or a Mac.
+Mac users only:
+On connecting your Scarlett 4i4 to your Mac, a Scarlett icon will appear on the desktop: 
+6
+Double-click on the icon to open the Finder window shown below:
+Double-click on the “Click Here to Get Started.url” icon. This will redirect you to the Focusrite website, 
+where we recommend you register your device:
+Click on “Let’s get you started”, and you’ll see a form which will be partly prefilled for you automatically. 
+When you submit the form, you’ll see options to go straight to the downloads to get the software for 
+your Scarlett, or to follow a step by step setup guide based on how you want to use your Scarlett. 
+Once you have installed the Focusrite Control software to set up and configure your interface, the 
+Scarlett will be switched out of Easy Start mode so it no longer appears as a Mass Storage Device 
+when connected to your computer.
+Your OS should switch the computer’s default audio inputs and outputs to the Scarlett. To verify this, 
+go to System Preferences > Sound, and ensure the input and output are set to Scarlett 4i4. 
+For detailed setup options on a Mac, open Applications > Utilities > Audio MIDI Setup.
+7
+Windows only:
+On connecting your Scarlett 4i4 to your PC, a Scarlett icon will appear on the desktop:
+(Note that the drive letter may be something other than E:, depending on other devices connected 
+to your PC).
+Double-click on the pop-up message to open the dialogue box shown below:
+Double-click on “Open folder to view files”: this will open an Explorer window:
+8
+Double-click “Click Here to Get Started”. This will redirect you to the Focusrite website, where we 
+recommend you register your device:
+Click on “Let’s get you started”, and you’ll see a form which will be partly prefilled for you automatically. 
+When you submit the form, you’ll see options to go straight to the downloads to get the software for 
+your Scarlett, or to follow a step by step setup guide based on how you want to use your Scarlett. 
+Once you have installed the Focusrite Control software to set up and configure your interface, the 
+Scarlett will be switched out of Easy Start mode so it no longer appears as a Mass Storage Device 
+when connected to your computer.
+Your OS should switch the computer’s default audio inputs and outputs to be the Scarlett. To verify 
+this, right click on the Sound icon on the taskbar and select Sound Settings, and set the Scarlett 
+as the Input and Output Device.
+9
+All users:
+Note that a second file - “More Info & FAQs” - is also available during the initial set-up process. This 
+file contains some additional information about the Focusrite Quick Start tool which you may find 
+helpful if you have any issues with the procedure.
+Once registered, you will have immediate access to the following resources:
+    • Focusrite Control (Mac and Windows versions available) - see NOTE below
+    • Multi-language User Guides
+You can find the licence codes and links for the optional bundled software in your Focusrite account. 
+To find out what bundled software is included with Scarlett 3rd generation, please visit our website:
+focusrite.com/scarlett
+NOTE: Installing Focusrite Control will also install the correct driver for your device. Focusrite Control 
+is available to download at any time, even without registering: see “Manual Registration” below.
+Manual Registration
+If you decide to register your Scarlet at a later date you can do so at:
+customer.focusrite.com/register
+You will need to enter the Serial Number manually: this number can be found on the base of the 
+interface itself, and also on the barcode label on the side of the box.
+We recommend you download and install our Focusrite Control application, as this will disable Easy 
+Start mode and unlock the full potential of the interface. Initially, when in Easy Start mode, the 
+interface will function at sample rates up to 48 kHz and the MIDI I/O is disabled. Once Focusrite 
+Control is installed on your computer, you can work at sample rates up to 192 kHz. 
+If you decide not to download and install Focusrite Control immediately, it can be downloaded at any 
+time from: 
+customer.focusrite.com/support/downloads
+To force your Scarlett out of Easy Start mode without first registering it, connect it to your computer 
+and press and hold the 48V button for five seconds. This will ensure your Scarlett has full functionality. 
+Please bear in mind that should you wish to register your Scarlett after taking this action, you will 
+need to so manually, as explained above.
+10
+Audio Setup in your DAW
+The Scarlett 4i4 is compatible with any Windows-based DAW that supports ASIO or WDM and any 
+Mac-based DAW that uses Core Audio. After following the Getting Started procedure described 
+above, you can start using the Scarlett 4i4 with the DAW of your choice.
+To allow you to get started if you do not already have a DAW application installed on your computer, 
+both Pro Tools | First and Ableton Live Lite are included; this will be available to you once you’ve 
+registered your Scarlett 4i4. If you need help installing either DAW, please visit our Getting Started 
+pages at focusrite.com/get-started, where Getting Started videos are available.
+Operating instructions for Pro Tools | First and Ableton Live Lite are beyond the scope of this User 
+Guide, but both applications include a full set of Help files. Instructions are also available at avid.com 
+and ableton.com respectively.
+Please note - your DAW may not automatically select the Scarlett 4i4 as its default I/O device. 
+You must manually select Focusrite USB ASIO as the driver on your DAW’s Audio Setup* page. 
+Please refer to your DAW’s documentation (or Help files) if you are unsure where to select the ASIO 
+or Core Audio driver. The example below shows the correct configuration in the Ableton Live Lite 
+Preferences panel (Windows version shown).
+* Typical name. Terminology may differ between DAWs.
+11
+Once the Scarlett 4i4 is set as the preferred Audio Device* in your DAW, Inputs 1 to 4 and Outputs 1 to 
+4 will appear in your DAW’s Audio I/O preferences. Depending on your DAW, you may need to enable 
+certain inputs or outputs before use. 
+The two screenshots below show Inputs 1 & 2 and Outputs 1 & 2 enabled Input and Output Config in 
+Ableton Live Lite’s Audio Preferences.
+* Typical name. Terminology may differ between DAWs.
+Loopback Inputs
+Two additional inputs - “Inputs 5 & 6” – will be listed on the Input Config page of your DAW’s I/O 
+Preferences. These are virtual “loopback” inputs within software, not additional physical inputs. 
+They can be used to record DAW tracks from sources within your computer, e.g., from a web browser. 
+Focusrite Control incudes a Loopback 1-2 mix tab, where you can choose which inputs to record. 
+Full details of how to use the loopback inputs can be found in the Focusrite Control User Guide.
+12
+Examples of Usage
+The Scarlett 4i4 is an excellent choice for several different recording and monitoring applications. 
+Some typical configurations are shown below.
+Connecting a microphone or instrument
+This setup shows a typical setup for recording with DAW software on your computer. You might record 
+guitar through Input 1 and vocals through Input 2 into your DAW, while monitoring the playback from 
+the DAW via headphones or speakers. Meanwhile, Inputs 3 and 4 (on the rear panel) are connected 
+to a line level source, this examples shows a Novation Peak connected to inputs 3 and 4.
+The front panel inputs are “Combo” type, which accept an XLR male connector or a ¼” (6.35 mm) 
+jack plug. The full microphone preamplifier  gain range is only available to a mic connected via the 
+XLR contacts. If it is a “condenser” (or “capacitor”) microphone, you will need to turn on the 48 volt 
+phantom power for it to work by pressing the 48V button. Most modern microphones of other types, 
+e.g., dynamic or ribbon, will not be damaged by phantom power, but note some older mics may be; if 
+you have any doubt, please check the specification of your mic to ensure it is safe to use.
+13
+The Scarlett 4i4 has no “Mic/line” switches – the Focusrite preamplifier stages are automatically 
+configured for a microphone when you plug an XLR into an input, and for a line or instrument when 
+you connect a jack plug. Select INST from Focusrite Control (‘INST’ illuminates red) if you are 
+connecting musical instrument, e.g., a guitar in the example, via a TS guitar jack. Deselect INST if 
+you are connecting a line level source such as a keyboard, synthesiser or the balanced output of an 
+external audio mixer via a TRS jack. The Combo connectors accept both TRS and TS types of jack 
+plug for line level sources.
+Input channels 1 and 2 of the Scarlett 4i4 each have a PAD function: when selected from Focusrite 
+Control (PAD illuminates green when active), the signal level fed to your DAW is reduced by 10 dB. 
+You will find this useful if you need to feed the input from a source whose output level is particularly 
+“hot”, when you might notice clipping or the gain halo turning red, even at minimum gain.
+Using Direct Monitoring
+You will probably have heard the term “latency” used in connection with digital audio systems. In 
+the case of the simple DAW recording application described above, latency is the time it takes for 
+your input signals to pass through your computer and audio software, and back to you. While not an 
+issue for most simple recording situations, under some circumstances, latency can be a problem 
+for a performer who wishes to record while monitoring their input signals. This might be the case 
+if you need to increase the size of your DAW’s recording buffer, which could be necessary when you 
+record overdubs on a particularly large project using many DAW tracks, software instruments and FX 
+plug-ins. Common symptoms of a buffer setting  too low could be glitching audio (clicks and pops), 
+or a particularly high CPU load within your DAW (most DAWs have CPU readouts). If you experience 
+this on a Mac, you can raise the buffer size from the DAW application itself but on a Windows PC you 
+will most likely need to change this from the ASIO Control Panel which can usually be accessed from 
+your DAW Setup Preferences*.
+The Scarlett 4i4, in conjunction with Focusrite Control, allows “zero latency monitoring”, which 
+overcomes this problem. By using Focusrite Control to monitor your input signals, you will hear 
+yourself in real time along with the computer playback, even with  high buffer sizes. The input signals 
+to the computer are not affected in any way by this setting. However, note that the effect of any plug-
+ins instantiated in the DAW will not be heard whilst recording because by monitoring in this way you 
+are hearing the signal before it reaches the software. Also, remember to mute the channel you are 
+recording to in your DAW otherwise you will hear both the signal you are monitoring and the echo 
+effect of the signal coming back from the DAW.
+* Typical name. Terminology may differ between DAWs.
+Connecting Scarlett 4i4 to loudspeakers
+Any of the Scarlett 4i4’s outputs may be used to connect monitoring speakers. All outputs are 
+electronically balanced, and available on the rear panel on ¼” (6.35 mm) 3-pole (TRS) jacks. 
+If LINE OUTPUTS 1 and 2 are used for primary monitoring, LINE OUTPUTS 3 and 4 are free to be 
+used for another purpose, such as connecting to an additional recording device or an additional pair 
+of monitors. However, please note only LINE OUTPUTS 1 and 2 are affected in level by the large front 
+panel MONITOR volume control. Also please note Outputs 3 and 4 are also used to feed the front 
+panel headphone output.
+The signals at LINE OUTPUTS 3 and 4 are at (full) fixed level, and thus if you use these for monitoring, 
+you will have to control the volume either from Focusrite Control, or by adjusting the volume at an 
+external amplifier.
+14
+Active monitors (e.g., typical computer speakers) incorporate internal amplifiers with a volume 
+control, and may be connected directly. Larger, passive loudspeakers will require a separate stereo 
+amplifier; the outputs should be connected to the amplifier’s inputs.
+In the setup shown in the lower diagram, a small pair of active monitors connected to Outputs 3 and 
+4 could act as “nearfield” monitors; their volume would either be adjusted locally on the speakers or 
+via Focusrite Control. The volume of the passive main monitors would be adjusted by the front panel 
+MONITOR control.
+Typical consumer (hi-fi) amplifiers and small powered monitors will have unbalanced inputs, either 
+on phono (RCA) sockets, or via a 3.5 mm 3-pole jack plug intended for direct connection to a computer. 
+In either case, use a suitable connecting cable with phono plugs (RCA jacks) at one end.
+Professional power amplifiers will generally have balanced inputs; we recommend using balanced 
+cables to connect these to the ¼” jack outputs of the Scarlett 4i4.
+NOTE: You run the risk of creating an audio feedback loop if loudspeakers are active when you are 
+monitoring a microphone! We recommend you always turn off (or turn down) monitoring loudspeakers 
+while recording, and use headphones when overdubbing.
+15
+Creating an effects loop
+The Scarlett 4i4 allows the easy integration of external outboard processors or effects. A good 
+example is the inclusion of an outboard stereo compressor to a recording setup similar to that 
+outlined above.
+Connect Line Outputs 3 and 4 to the compressor’s inputs, and the compressor’s outputs to Line 
+Inputs 3 and 4, as shown below. You can then route the channels from your DAW to outputs 3/4. In 
+Focusrite Control route Software Playback 3/4 to line outputs 3/4 and the signal will be sent to the 
+compressor. We have omitted the front panel connections in this example for clarity.
+CH 1
+IN
+OUT
+CH 2
+IN
+OUT
+See previous example diagrams 
+for details of connectors
+You can use Focusrite Control or your DAW software to adjust the levels to and from the external 
+processor if necessary or for creative effect.
+16
+Connecting Scarlett 4i4 to a DJ mixer
+The Scarlett 4i4 makes an excellent interface between a laptop running DJ software and the channels 
+of a DJ mixer. In this setup, Outputs 1 and 2 can be connected to Line Inputs 1 and 2 of an external DJ 
+mixer, and Outputs 3 and 4 to Line Inputs 3 and 4. Connecting in this way means all mixer facilities, 
+such as EQs and crossfading, are easily accessible. However, you must set the front panel Monitor 
+Level control to maximum, otherwise Outputs 1 and 2 will be at a lower level than Outputs 3 and 4.
+Note that although the outputs of the Scarlett 4i4 are balanced, they can be connected to an unbalanced 
+input using a cable fitted with a ¼” TS jack. Most DJ mixers will have unbalanced inputs using phono 
+(RCA) sockets, so suitable phono-to-TS jack cables will be needed to make the connection.
+17
+HARDWARE FEATURES
+Front Panel
+4
+2
+1
+1
+9
+7
+5
+6
+4
+5
+6
+11
+3
+8
+10
+The Front Panel includes the input connectors for Mic, Line and Instrument signals, as well as the 
+input gain and monitoring controls.
+1.	 Inputs 1 & 2 – “Combo” input sockets - connect microphones, instruments (e.g., guitar), or 
+line level signals here. Combo sockets accept both XLR and ¼” (6.35 mm) jacks. Microphones 
+connect using XLR plugs: instruments and line level signals should be connected via ¼” (6.35 
+mm) jack plugs of either TS or TRS type. The preamp gain is appropriate for microphones 
+when an XLR plug is inserted, and for higher level signals when a jack plug is inserted. Do not 
+connect anything other than a microphone - e.g., the output of a sound module or FX unit - via 
+an XLR plug, as the signal level will overload the preamp, resulting in distortion; , if phantom 
+power is enabled, you may damage your equipment.
+2.	 GAIN 1 and GAIN 2 – adjust the preamp gain for signals at inputs 1 and 2 respectively. The gain 
+controls have  tri-colour LED ‘rings’ to confirm signal level: green indicates an input level of 
+at least -24 dBFS (i.e., ‘signal present’), the ring turns amber at -6 dBFS to indicate the signal 
+is close to clipping, and red at 0 dBFS (digital clipping).
+3.	 48V – phantom power switch for mic inputs - enables 48 V phantom power at XLR contacts of 
+both Combo connectors.
+4.	 INST – two red LEDs; illuminate when Instrument mode is selected for Inputs 1 or 2 from 
+Focusrite Control; gain is set to suit instrument signals. When INST is off, the ¼” jack input is 
+configured to accept a line level signal, e.g., from a keyboard, synth module or FX unit.
+5.	 AIR – two yellow LEDs indicating AIR mode selection for Inputs 1 and 2. AIR mode, enabled in 
+Focusrite Control, modifies the frequency response of the input stage to model the classic, 
+transformer-based Focusrite ISA microphone preamps.
+6.	 PAD – two green LEDs; illuminate when PAD is selected from Focusrite Control for Inputs 1 or 
+2. PAD decreases the signal level going to your DAW by 10 dB; use when the input source has 
+a particularly high level.
+18
+7.	 MONITOR – main monitor volume control, sets the level at rear panel Outputs 1 and 2 only.
+8.	 Headphone level – adjusts the output level at the front panel stereo headphone output.
+9.	
+ Headphone output - ¼” TRS output jack – connect your stereo headphones here.
+10.	
+ USB LED – a green LED illuminates when  the Scarlett is connected and recognised by 
+your computer.
+11.	 MIDI LED – illuminates when MIDI data is received at the MIDI IN port.
+Back Panel
+16
+17
+15
+12
+13
+14
+12.	 LINE INPUTS 3 and 4 – 2 x ¼” TRS jacks; these are balanced inputs for use with additional line 
+level sources e.g., from a keyboard, synth module or FX unit.
+13.	 LINE OUTPUTS 1 and 2 - 2 x ¼” (6.35 mm) TRS jack sockets, electronically balanced. The level 
+at these outputs is adjusted by the front panel MONITOR control, the maximum output level is 
++10 dBu. Either ¼” TRS (balanced connection) or TS (unbalanced connection) jack plugs can 
+be used.
+14.	 LINE OUTPUTS 3 and 4 - 2 x ¼” (6.35 mm) TRS jack sockets, electronically balanced. The 
+level at these outputs may be adjusted from Focusrite Control; the maximum output level is 
++10 dBu. Either ¼” TRS (balanced connection) or TS (unbalanced connection) jack plugs can 
+be used.
+15.	 MIDI IN and MIDI OUT – standard 5-pin DIN sockets for connection of external MIDI equipment 
+such as keyboards or sound modules. The Scarlett 4i4 provides a convenient MIDI interface 
+with your DAW, making a computer MIDI card unnecessary.
+16.	
+ USB 2.0 port – Type C connector; connect to your computer with cable supplied.
+17.	 K (Kensington security lock) – secure your Scarlett 4i4 to a suitable structure if desired.
+19
+CHANNEL LISTINGS
+The tables below summarise how the Scarlett 4i4’s inputs and outputs will correspond to the input 
+and output channels in your chosen DAW.
+Input
+4i4 Hardware Inputs
+44.1/48 kHz
+88.2/96 kHz
+176.4/192 kHz
+Ch 1
+Input 1
+Input 1
+Input 1
+Ch 2
+Input 2
+Input 2
+Input 2
+Ch 3
+Input 3
+Input 3
+Input 3
+Ch 4
+Input 4
+Input 4
+Input 4
+Ch 5
+Loopback 1
+Loopback 1
+Ch 6
+Loopback 2
+Loopback 2
+Output
+Software playback (outputs)
+44.1/48 kHz
+88.2/96 kHz
+176.4/192 kHz
+Ch 1
+Output 1
+Output 1
+Output 1
+Ch 2
+Output 2
+Output 2
+Output 2
+Ch 3
+Output 3 (Headphones L)
+Output 3 (Headphones L)
+Output 3 (Headphones L)
+Ch 4
+Output 4 (Headphones R)
+Output 4 (Headphones R)
+Output 4 (Headphones R)
+20
+SPECIFICATIONS
+Performance Specifications
+All performance figures measured in accordance with the provisions of AES17, as applicable.
+Supported sample rates
+  44.1 kHz, 48 kHz, 88.2 kHz, 96 kHz, 176.4 kHz, 192 kHz
+Custom Mixes
+6 mono
+Maximum custom mix inputs
+8 mono
+Microphone Inputs
+Dynamic Range
+111 dB (A-weighted)
+Frequency Response
+20 Hz to 20 kHz ±0.1 dB
+THD+N
+<0.0012% (minimum gain, -1 dBFS input with 22 Hz/22 kHz 
+bandpass filter)
+Noise EIN
+-128 dB (A-weighted)
+Maximum Input Level
++9 dBu (no PAD); +16 dBu (PAD selected);  
+measured at minimum gain
+Gain Range
+56 dB
+Input impedance
+3 kΩ
+Line Inputs 1 and 2
+Dynamic Range
+110.5 dB (A-weighted)
+Frequency Response
+20 Hz to 20 kHz ±0.1 dB
+THD+N
+<0.002% (minimum gain, -1 dBFS input with 22 Hz/22 kHz 
+bandpass filter)
+Maximum Input Level
++22 dBu (no PAD); +29.5 dBu (PAD selected); 
+measured at minimum gain
+Gain Range
+56 dB
+Input impedance
+60 kΩ
+Instrument Inputs 1 and 2
+Dynamic Range
+110 dB (A-weighted)
+Frequency Response
+20 Hz to 20 kHz ±0.1 dB
+THD+N
+<0.03% (minimum gain, -1 dBFS input with 22 Hz/22 kHz 
+bandpass filter)
+Maximum Input Level
++12.5 dBu (no PAD); +14 dBu (PAD selected); measured at 
+minimum gain
+Gain Range
+56 dB
+Input impedance
+1.5 MΩ
+21
+Line Inputs 3 and 4
+Dynamic Range
+110.5 dB (A-weighted)
+Frequency Response
+20 Hz to 20 kHz ±0.1 dB
+THD+N
+<0.002% (minimum gain, -1 dBFS input with 22 Hz/22 kHz 
+bandpass filter)
+Maximum Input Level
++18 dBu; measured at minimum gain
+Input Impedance
+44 kΩ
+Line and Monitor Outputs
+Dynamic Range
+108.5 dB (A-weighted)
+Maximum Output Level (0 dBFS) 
++15.5 dBu (balanced)
+THD+N
+<0.002% (maximum level, -1 dBFS input with 22 Hz/22 kHz 
+bandpass filter)
+Output Impedance
+430 Ω
+Headphone Outputs
+Dynamic Range
+104 dB (A-weighted)
+Maximum Output Level
+7 dBu
+THD+N
+<0.002% (measured at +6 dBu with 22 Hz/22 kHz bandpass filter)
+Output Impedance
+<1 Ω
+Physical and Electrical Characteristics
+Analogue Inputs 1 & 2
+Connectors
+XLR “Combo” type: Mic/Line/Inst on front panel
+Mic/Line switching
+Automatic
+Line/Instrument switching
+Selected per channel via Focusrite Control
+Pad
+10 dB attenuation, selected per channel via Focusrite Control
+Phantom power
+Shared +48 V phantom power switch for Inputs 1 & 2  
+(XLR connections only)
+AIR function
+Selected per channel via Focusrite Control
+Analogue Inputs 3 & 4
+Connectors
+¼” (6.35 mm) TRS jacks on rear panel
+Analogue Outputs
+Balanced outputs
+4 x ¼” (6.35 mm)TRS jacks on rear panel
+Stereo headphone output
+¼” TRS jack on front panel
+Main output level control
+On front panel
+Headphones level control
+Other I/O
+USB
+1 x USB 2.0 Type C connector
+MIDI
+2 x 5-pin DIN sockets
+22
+Front Panel Indicators
+USB power
+Green LED
+Gain Halos
+Tri-colour LED rings ( with GAIN controls)
+Phantom power
+Red LED
+Instrument mode
+2 x red LEDs
+AIR mode
+2 x amber LEDs
+Pad active
+2 x green LEDs
+MIDI data received
+Green LED
+Weight and Dimensions
+W x H x D
+185 mm x 47.5 mm x 119.7 mm
+7.28 in x 1.87 in x 4.71 in
+Weight
+615 g
+1.36 lb
+23
+TROUBLESHOOTING
+For all troubleshooting queries, please visit the Focusrite Help Centre at support.focusrite.com.
+COPYRIGHT AND LEGAL NOTICES
+Full Terms and Conditions of the Warranty can be found at focusrite.com/warranty.
+Focusrite is a registered trade mark and Scarlett 4i4 is a trade mark of Focusrite Audio Engineering 
+Limited.
+All other trade marks and trade names are the property of their respective owners. 
+2021 © Focusrite Audio Engineering Limited. All rights reserved.

@@ -1,4 +1,12 @@
+import sys
 import os
+
+# Ensure the parent directory of 'scripts' is in the system path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+# Print sys.path to debug
+print("Python Path:", sys.path)
+
 from app.services.text_extraction import extract_text_from_pdf
 
 manual_dir = "data/manuals"
